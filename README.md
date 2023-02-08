@@ -15,6 +15,6 @@ The examples foldder includes the following code examples:
 4. Question answering example notebooks: https://platform.openai.com/docs/guides/fine-tuning/example-notebooks
 5. ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT: https://youtu.be/QumfkMQr47M
 
-Student team members are encouraged to review the examples, select one code example, and try to run the codes without errors. Alternatively, as a part of the literature review, students may find code examples that are even more suitable to this project. The team will discussed results of this exercise and select the most promising code example to customize for this project.
+Student team members are encouraged to review the examples, select one code example, and try to run the codes without errors. Alternatively, students may find and sucessfully run other code examples elsewhere that are even more suitable to this project. The team will discussed results of this exercise and select the most promising code example to customize for this project.
 
 
