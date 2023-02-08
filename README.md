@@ -8,7 +8,7 @@ Project team members include water industry professionals at the California Wate
 A pdf copy and a word copy of the regulations can be found in the Regulations folder. Alternatively the regulations can be scraped from the following website:
 https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=IE55EDC305B6011EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)
 
-The examples foldder includes the following code examples:
+The examples folder includes the following code examples:
 1. Chatbot Tutorial from PyTorch: https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
 2. How to Use OpenAI API for Q&A and Chatbot Apps: https://help.openai.com/en/articles/6643167-how-to-use-openai-api-for-q-a-and-chatbot-apps
 3. How to build an AI that can answer questions about your website: https://platform.openai.com/docs/tutorials/web-qa-embeddings
