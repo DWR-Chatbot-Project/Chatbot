@@ -186,3 +186,135 @@ Next, the program defines a function called generate_answer that takes in the mo
 Finally, the function extracts the start and end indices of the answer, decodes the answer, and returns it.
 
 In this example, the regulation text and the question are hardcoded, but in a real-world scenario, you would replace these with the actual regulation text and questions you are interested in.
+
+Question:
+I got the below warning when running your codes in Google Colab: Some weights of the model checkpoint at distilbert-base-cased-distilled-squad were not used when initializing DistilBertModel: ['qa_outputs.bias', 'qa_outputs.weight']
+- This IS expected if you are initializing DistilBertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DistilBertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+
+Answer: 
+This warning is indicating that the distilbert-base-cased-distilled-squad checkpoint includes weights for a different task (question answering) than the task you are using it for in this code (text classification). The weights for the qa_outputs layer are not used in the text classification task and thus, the warning is being displayed. This is normal and does not affect the results of the model. However, if you want to eliminate the warning, you could fine-tune a DistilBERT model on a text classification task and use the checkpoint of that model in this code.
+
+Question:
+In your codes, the regulation text and the question are hardcoded, can you replace these with the actual regulation text found on this website: https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=IE55EDC305B6011EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)?
+Yes, to replace the hardcoded regulation text and question with actual text from the website, you would need to scrape the text from the website and store it in a variable. Here's an example of how you could do this using the requests and beautifulsoup4 libraries:
+
+makefile
+Copy code
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=IE55EDC305B6011EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)"
+
+response = requests.get(url)
+soup = BeautifulSoup(response.content, "html.parser")
+
+regulation_text = soup.get_text()
+Once you have the text from the website, you can use it in place of the hardcoded regulation text in the code. Similarly, you can ask the user to input their question instead of hardcoding it.
+
+Here's an example of how you could modify the code to use the user's input:
+
+makefile
+Copy code
+import torch
+from transformers import AutoTokenizer, AutoModel
+
+# Load the pre-trained model
+tokenizer = AutoTokenizer.from_pretrained("distilbert-base-cased-distilled-squad")
+model = AutoModel.from_pretrained("distilbert-base-cased-distilled-squad")
+
+# Ask the user for their question
+question = input("What is your question? ")
+
+# Tokenize the regulation text and question
+encoded_regulation_text = tokenizer.encode(regulation_text, return_tensors="pt")
+encoded_question = tokenizer.encode(question, return_tensors="pt")
+
+# Use the model to find the answer
+start_scores, end_scores = model(encoded_regulation_text, encoded_question)
+
+# Find the starting and ending indices of the answer
+answer_start = torch.argmax(start_scores)
+answer_end = torch.argmax(end_scores) + 1
+
+# Tokenize the answer
+answer = tokenizer.decode(encoded_regulation_text[0][answer_start:answer_end])
+
+print("Answer: ", answer)
+
+After some back and forth debuggings we got the codes to work without error: https://colab.research.google.com/drive/1YBEwPlw7u1eTh40tjG_3Sixt9DKJkYsx?usp=sharing
+
+Question:
+How do I make a web interface for this chatbot?
+There are many ways to create a web interface for your chatbot, but one of the most straightforward ways is to use a web framework such as Flask. Here's a general outline of what you would need to do:
+
+Write a Flask application that listens for incoming HTTP requests and returns responses.
+In the Flask application, define a route for handling user input. This could be a simple HTML form that allows the user to type in a question and submit it to the server.
+When a user submits a question to the server, the Flask route should call your chatbot's predict function to get a response.
+The response from the chatbot should be returned to the user as an HTTP response. You can use templates to define the HTML structure of the page that is returned to the user.
+Here's an example of what a simple Flask application might look like:
+
+python
+Copy code
+from flask import Flask, request, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+@app.route("/answer", methods=["POST"])
+def answer():
+    question = request.form["question"]
+    response = chatbot.predict(question)
+    return render_template("answer.html", question=question, response=response)
+
+if __name__ == "__main__":
+    app.run()
+In this example, the index function returns an HTML template that contains a form for submitting a question. The answer function is called when the form is submitted, and it calls the chatbot.predict function to get a response. The response is then passed to another template that displays the question and the response.
+
+You'll also need to create two HTML templates, index.html and answer.html, to define the structure of the pages that are returned to the user.
+
+This is just a basic example to get you started. There are many ways to customize and extend this basic structure to build a more advanced chatbot interface.
+
+Question: But I got this error...
+
+The error message you are getting is "TemplateNotFound: index.html", which indicates that the Flask application is unable to find the HTML template file "index.html".
+
+You need to create a folder named "templates" in your project's root directory and place your "index.html" file inside it. The Flask application is configured to look for templates in the "templates" folder by default.
+
+Here's the updated code to get you started:
+
+python
+Copy code
+from flask import Flask, request, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
+And here's an example of what your index.html file could look like:
+
+php
+Copy code
+<!doctype html>
+<html>
+    <head>
+        <title>My Chatbot</title>
+    </head>
+    <body>
+        <h1>My Chatbot</h1>
+        <form>
+            <input type="text" name="user_input">
+            <input type="submit">
+        </form>
+    </body>
+</html>
+
+
+
