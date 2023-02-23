@@ -14,5 +14,6 @@ The examples folder includes the following code examples:
 3. How to build an AI that can answer questions about your website: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 4. Question answering example notebooks: https://platform.openai.com/docs/guides/fine-tuning/example-notebooks
 5. ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT: https://youtu.be/QumfkMQr47M
+6. Fine-tune a GPT3 model (Bloom) with the Amazon Customer Reviews Dataset: https://github.com/data-science-on-aws/data-science-on-aws/blob/gpt3/00_quickstart/06_Train_and_Fine_Tune_GPT3_PyTorch.ipynbv
 
 Student team members are encouraged to review the examples, select one code example, and test run the codes. Alternatively, students may find and test other code examples elsewhere that are even more suitable to this project. The team will discussed results of this exercise and may select the most promising code example to customize for this project or develop new codes.
