@@ -1,0 +1,998 @@
+CHAPTER 15. DOMESTIC WATER QUALITY AND MONITORING REGULATIONS 
+
+Article 1. Definitions 
+
+§64400.02. Approved Surface Water.
+“Approved surface water” has the same meaning as defined in Section 64651.10.
+
+§64400.03. Clean Compliance History.
+“Clean compliance history” means a record of no bacteriological monitoring violations 
+under sections 64423, 64424, and 64425, no MCL violations under section  64426.1, 
+no coliform treatment technique violations under section 64426.6, and no coliform 
+treatment technique trigger exceedances under section 64426.7.
+
+§64400.10. Community Water System.
+“Community water system” means a public water system which serves at least 15 
+service connections used by yearlong residents or regularly serves at least 25 yearlong 
+residents.
+
+§64400.29. Consecutive System. 
+“Consecutive system” means a public water system that receives some or all of its 
+finished water from one or more wholesale systems.  Delivery may be through a direct 
+connection or through the distribution system of one or more consecutive systems.
+
+§64400.30. Customer. 
+“Customer” means a service connection to which water is delivered by a community 
+water system or a person that receives water from a nontransient-noncommunity water 
+system for more than six months of the year.
+
+§64400.32. Detected. 
+“Detected” means at or above the detection limit for purposes of reporting (DLR).
+
+§64400.34. Detection Limit for Purposes of Reporting (DLR).
+“Detection limit for purposes of reporting (DLR)” means the designated minimum level at 
+or above which any analytical finding of a contaminant in drinking water resulting from 
+monitoring required under this chapter shall be reported to the State Board.
+
+§64400.41. Finished Water. 
+“Finished water” means the water that is introduced into the distribution system of a 
+public water system and is intended for distribution and consumption without further 
+treatment, except as treatment necessary to maintain water quality in the distribution 
+system (e.g., booster disinfection, addition of corrosion control chemicals).
+
+
+§64400.47. Groundwater Under the Direct Influence of Surface Water or GWUDI. 
+“Groundwater under the direct influence of surface water” or “GWUDI” has the same 
+meaning as defined in Section 64651.50.
+
+§64400.63. Level 1 Assessment.
+“Level 1 assessment” means an evaluation to identify the possible presence of sanitary 
+defects, defects in distribution system coliform monitoring practices, and (when    
+possible) the likely reason that the system triggered the assessment.
+
+§64400.64. Level 2 Assessment.
+Level 2 assessment” means an evaluation, that provides a more detailed examination of 
+the system (including the system’s monitoring and operational practices) than does a 
+Level 1 assessment through the use of more comprehensive investigation and review of 
+available information, additional internal and external resources, and other relevant 
+practices, to identify the possible presence of sanitary defects, defects in distribution 
+system coliform monitoring practices, and (when possible) the likely reason that the 
+system triggered the assessment.
+
+§64400.70. MCL.
+“MCL” means maximum contaminant level.
+
+§64400.80. Nontransient-noncommunity Water System.
+“Nontransient-noncommunity water system” means a public water system that is not a 
+community water system and that regularly serves at least the same 25 persons over 6 
+months per year.
+
+§64400.93 Possible Contaminating Activity (PCA).
+“Possible contaminating activity (PCA)” means a human activity that is an actual or 
+potential origin of contamination for a drinking water source and includes sources of 
+both microbiological and chemical contaminants that could have adverse effects upon 
+human health.
+
+§64400.95. Protected Water Source.
+“Protected water source” means an aquifer that provides physical exclusion of microbial 
+contamination.
+
+§64401.10. Repeat Sample.
+“Repeat sample” means a required sample collected following a total coliform-positive 
+sample.
+
+§64401.20. Replacement Sample.
+“Replacement sample” means a sample collected to replace an invalidated sample.
+
+§64401.30. Routine Sample.
+“Routine sample” means a bacteriological sample the water supplier is required to 
+collect on a regular basis, or one which the supplier is required to collect for a system 
+not in compliance with Sections 64650 through 64666 when treated water turbidity 
+exceeds 1 nephelometric turbidity unit (NTU), pursuant to §64423(b).
+
+§64401.35. Sanitary Defect.
+“Sanitary defect” means a defect that could provide a pathway of entry for microbial 
+contamination into the distribution system or that is indicative of a failure or imminent 
+failure in a barrier that is already in place.
+
+§64401.40. Sanitary Survey. 
+“Sanitary survey” means an on-site review of a public water system for the purpose of 
+evaluating the adequacy of the water source, facilities, equipment, operation and 
+maintenance for producing and distributing safe drinking water.
+
+§64401.45. Seasonal System.
+“Seasonal system” means a nontransient-noncommunity water system or transient-
+noncommunity water system that is not operated as a public water system on a year-
+round basis and starts up and shuts down at the beginning and end of each operating 
+season.
+
+§64401.50. Significant Rise in Bacterial Count.
+“Significant rise in bacterial count” means an increase in coliform bacteria, as 
+determined in §64426, when associated with a suspected waterborne illness or 
+disruption of physical works or operating procedures.
+
+§64401.60. Standby Source.
+“Standby source” means a source which is used only for emergency purposes pursuant 
+to §64414.
+
+§64401.71. Tier 1 Public Notice.
+“Tier 1 public notice” means a public notice issued in response to the events listed in 
+subsection 64463.1(a) and in the manner specified in subsections 64463.1(b) and (c).
+
+§64401.72. Tier 2 Public Notice.
+“Tier 2 public notice” means a public notice issued in response to the events listed in 
+section 64463.4(a) and in the manner specified in subsections 64463.4(b) and (c).
+
+§64401.73. Tier 3 Public Notice.
+“Tier 3 public notice” means a public notice issued in response to the events listed in 
+section 64463.7(a) and in the manner specified in subsections 64463.7(b), and (c) or 
+(d).
+
+§64401.75. Too Numerous to Count.
+“Too numerous to count” means that the total number of bacterial colonies exceeds 200 
+on a 47-mm diameter membrane filter used for coliform detection.
+
+§64401.80. Total Coliform-positive.
+“Total coliform-positive” means a sample result in which the presence of total coliforms 
+has been demonstrated.
+
+§64401.85. Transient-noncommunity Water System.
+“Transient-noncommunity water system” means a public water system that is not a 
+community water system or a nontransient-noncommunity water system.
+
+§64401.90. Treatment.
+“Treatment” means physical, biological, or chemical processes, including blending, 
+designed to affect water quality parameters to render the water acceptable for domestic 
+use.
+
+§64402.10. Water Source.
+“Water source” means an individual groundwater source or an individual surface water 
+intake.  Sources which have not been designated as standby sources shall be deemed 
+to be water sources.
+
+§64402.20. Water Supplier.
+“Water supplier”, “person operating a public water system” or “supplier of water” means 
+any person who owns or operates a public water system. These terms will be used 
+interchangeably in this chapter.  
+   (a)	“Wholesale water supplier,” or “wholesaler” means any person who treats water 
+on behalf of one or more public water systems for the purpose of rendering it safe for 
+human consumption.
+   
+   (b)	“Retail water supplier,” or “retailer” means  
+         (1)	Any person who owns or operates any distribution facilities and any 
+related collection, treatment, or storage facilities under the control of the operator of the 
+public water system which are used primarily in connection with the public water 
+system; or
+         (2)	Any person who owns or operates any collection or pretreatment storage 
+facilities not under the control of the operator of the public water system which are used 
+primarily in connection with the public water system.
+
+§64402.30. Wholesale System.
+“Wholesale system” means a public water system that treats source water as necessary 
+to produce finished water and then delivers some or all of that finished water to another 
+public water system.  Delivery may be through a direct connection or through the 
+distribution system of one or more consecutive systems.
+?
+
+Article 3. Primary Standards--Bacteriological Quality
+§64421. General Requirements.
+   (a) The requirements of this Article apply to public water systems.
+
+   (b) In addition to the bacteriological monitoring requirements in Sections 64423, 
+64424, 64425, and 64426.9, a public water system shall perform special purpose 
+bacteriological monitoring as follows: 
+      (1) After any system pressure loss to less than five psi.  Samples collected shall 
+represent the water quality in the affected portions of the system; and
+		(2) For a groundwater (not GWUDI) source that is treated with a primary or 
+residual disinfectant on a continuous basis and is not monitored pursuant to Section 
+64654.8(b)(1)(B): 
+         (A) A raw water sample shall be collected each calendar quarter, with 
+samples collected during the same month (first, second, or third) of each calendar 
+quarter; and
+         (B) If the raw water sample is total coliform-positive, a raw water sample shall 
+be collected each month.  If no coliforms are detected for a minimum of three 
+consecutive months, a public water system may submit a request to the State Board to 
+monitor in accordance with subparagraph (A).
+
+   (c) A public water system shall maintain documentation that the personnel 
+performing sample collection and/or field tests under this Article have been trained 
+pursuant to Section 64415(b).  As a minimum, the documentation shall include the 
+name and qualifications of the personnel who will be performing the sample collection 
+and/or field tests.
+   
+   (d) Plans, procedures, and requests to be submitted by a public water system to the 
+State Board under this Article shall be in writing.  For a request, the system shall state 
+what is being requested, the basis for the request, and include any documentation to 
+support the request.
+
+§64422. Bacteriological Sample Siting Plan.
+   (a) By October 1, 2021, an existing public water system shall develop and submit to 
+the State Board a bacteriological sample siting plan that identifies sampling sites and a 
+sample collection schedule for the collection of bacteriological samples for total coliform 
+analysis, subject to the following: 
+      (1) The sample sites chosen shall be representative of water throughout the 
+distribution system including each pressure zone, and areas supplied by each water 
+source and distribution reservoir; 
+      (2) Routine sampling may be rotated among the routine sample sites if the total 
+number of sites needed to comply with paragraph (1) above exceeds the number of 
+samples required according to Table 64423-A.  The rotation of sampling sites shall be 
+described in the plan; 
+		(3) Routine and repeat sampling may take place at a customer’s premises, 
+dedicated sampling station, or other designated compliance sample location;
+		(4) The physical location of routine and repeat sample sites and sampling points 
+required by the Ground Water Rule (triggered source monitoring and assessment 
+source monitoring) in Section 64430 shall be specified in the plan; and
+		(5) If applicable, the alternative sampling locations, dual purpose sampling 
+locations, and special purpose sampling locations required in Table 64424-A,Table 
+64424-B, and Section 64421(b)(2), respectively, shall be specified in the plan.
+
+   (b) A public water system shall collect bacteriological samples for total coliform 
+analysis in accordance with the State Board-approved bacteriological sample siting 
+plan.
+   
+   (c) A public water system shall submit an updated plan to the State Board at least 
+once every ten years and within 30 days of the system’s or State Board’s determination 
+that the plan no longer complies with subsection (a), the alternative monitoring location 
+for repeat samples collected under Table 64424-A is no longer representative of a 
+pathway for contamination of the distribution system, or dual purpose sampling 
+specified in Table 64424-B is no longer representative of water quality in the distribution 
+system.
+
+§64423. Routine Sampling.
+   (a) A public water system shall collect routine bacteriological water samples as 
+follows:
+      (1) The minimum number of samples for community water systems shall be 
+based on the known population served or the total number of service connections, 
+whichever results in the greater number of samples, as shown in Table 64423-A;
+      (2) The minimum number of samples for nontransient-noncommunity water 
+systems shall be based on the known population served as shown in Table 64423-A 
+during those months when the system is operating;
+      (3) The minimum number of samples for transient-noncommunity water systems 
+using only groundwater (not GWUDI) and serving 1000 or fewer persons a month shall 
+be one in each calendar quarter during which the system provides water to the public;
+      (4) The minimum number of samples for transient-noncommunity water systems 
+using groundwater (not GWUDI) and serving more than 1000 persons during any month 
+shall be based on the known population served as shown in Table 64423-A.  For any 
+quarter the system serves 1000 or fewer persons in each month and uses only 
+groundwater (not GWUDI), and if the criteria in subsections (c)(2)(A) and (B) are met, 
+the system may submit a request to the State Board to monitor in accordance with 
+paragraph (3).  The request shall include:
+         (A) Historical data that demonstrates the system has served 1000 or fewer 
+persons in each month of the calendar quarter for which the request is being made; and
+         (B) A revised bacteriological sample siting plan with an updated sampling 
+schedule;
+      (5) The minimum number of samples for transient-noncommunity water systems 
+using approved surface water shall be based on the population served as shown in 
+Table 64423-A.  A system using groundwater under the direct influence of surface water 
+shall begin monitoring at this frequency by the end of the sixth month after the State 
+Board has designated the source to be approved surface water;
+      (6) The minimum number of samples for seasonal systems, and in lieu of 
+paragraphs (2) through (5), shall be based on the population served as shown in Table 
+64423-A during those months when the system is operating;
+      (7) Samples shall be collected at regular time intervals throughout the month, 
+except that a system using only groundwater (not GWUDI) which serves 4,900 persons 
+or fewer may collect all required samples on a single day if they are taken from different 
+sites;
+      (8) At least the minimum number of samples shall be taken even if the system 
+has had an E. coli MCL violation or has exceeded the coliform treatment technique 
+triggers in Section 64426.7; and
+      (9) More than the minimum number of samples may be taken provided the 
+samples are included in the bacteriological sample siting plan developed pursuant to 
+Section 64422.
+
+   (b) In addition to the minimum sampling requirements, all public water systems using 
+approved surface water which do not practice filtration in compliance with Sections 
+64650 through 64666, shall collect a minimum of one sample before or at the first 
+service connection each day during which the turbidity level of the source water 
+exceeds 1 NTU. The sample shall be collected within 24 hours of the first exceedance 
+and shall be analyzed for total coliforms.  If the water system is unable to collect and/or 
+analyze the sample within the 24-hour time period because of extenuating 
+circumstances beyond its control, the system shall notify the State Board within the 24-
+hour time period, submit a request to the State Board for an extension, and comply with 
+an alternative sample collection schedule specified by the State Board.  Sample results 
+shall be included in determining if the coliform treatment technique trigger in Section 
+64426.7 has been exceeded.
+
+   (c) A transient-noncommunity water system monitoring pursuant to subsection 
+(a)(3):
+      (1) Shall, in the month following the occurrence of any of the following events, 
+increase monitoring to one sample each month:
+         (A) The system triggers a Level 2 assessment or two Level 1 assessments in 
+a rolling12-month period;
+         (B) The system has an E. coli MCL violation;
+         (C) The system has a coliform treatment technique violation; or
+         (D) The system has two bacteriological monitoring violations or one 
+bacteriological monitoring violation and one Level 1 assessment in a rolling 12-month 
+period.  For purposes of this subparagraph, failure to conduct bacteriological monitoring 
+under Section 64423, 64423.1, 64424, or 64425 is a bacteriological monitoring violation;
+      (2) If monitoring pursuant to paragraph (1) and if all the following criteria are met, 
+may submit a request to the State Board to return to routine monitoring pursuant to 
+subsection (a)(3):
+         (A) Within the last 12 consecutive months, the system shall have a completed 
+sanitary survey, site visit, or voluntary Level 2 assessment by the State Board and be 
+determined by the State Board to be free of sanitary defects and have a protected water 
+source; and
+         (B) Immediately prior to the request, the system shall have a clean 
+compliance history for a minimum of 12 consecutive months; and
+      (3) Shall, in the month following one or more total coliform-positive samples (with 
+or without a Level 1 treatment technique trigger exceedance), collect at least three 
+routine samples.  The system may either collect samples at regular time intervals 
+throughout the month or may collect all required routine samples on a single day if 
+samples are taken from different sites.  If the system stops supplying water during the 
+month following the total coliform-positive(s), at least three routine samples shall be 
+collected during the first month the system resumes operation.
+      
+   (d) A public water system in violation of the routine sample monitoring requirements 
+of this section shall notify the State Board within 10 days after it learns of the violation 
+and notify the public pursuant to Sections 64463, 64463.7, and 64465.
+
+   (e) A public water system in violation of the reporting requirement in subsection (d) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+
+
+
+Table 64423-A
+Minimum Number of Routine Total Coliform Samples
+
+Monthly Population 
+Served1
+Service Connections
+Minimum Number of 
+Samples Per Month
+25 to 1000
+15 to 400
+1 
+1,001 to 2,500
+401 to 890
+2 
+2,501 to 3,300
+891 to 1,180
+3 
+3,301 to 4,100
+1,181 to 1,460
+4 
+4,101 to 4,900
+1,461 to 1,750
+5 
+4,901 to 5,800
+1,751 to 2,100
+6
+5,801 to 6,700
+2,101 to 2,400
+7 
+6,701 to 7,600
+2,401 to 2,700
+8
+7,601 to 8,500
+2,701 to 3,000
+9
+8,501 to 12,900
+3,001 to 4,600
+10
+12,901 to 17,200
+4,601 to 6,100
+15
+17,201 to 21,500
+6,101 to 7,700
+20
+21,501 to 25,000
+7,701 to 8,900
+25
+25,001 to 33,000
+8,901 to 11,800
+30
+33,001 to 41,000
+11,801 to 14,600
+40
+41,001 to 50,000
+14,601 to 17,900
+50
+50,001 to 59,000
+17,901 to 21,100
+60
+59,001 to 70,000
+21,101 to 25,000
+70
+70,001 to 83,000
+25,001 to 29,600
+80
+83,001 to 96,000
+29,601 to 34,300
+90
+96,001 to 130,000
+34,301 to 46,400
+100
+130,001 to 220,000
+46,401 to 78,600
+120
+220,001 to 320,000
+78,601 to 114,300
+150
+320,001 to 450,000
+114,301 to 160,700
+180
+450,001 to 600,000
+160,701 to 214,300
+210
+600,001 to 780,000
+214,301 to 278,600
+240
+780,001 to 970,000
+278,601 to 346,400
+270
+970,001 to 1,230,000
+346,401 to 439,300
+300
+1,230,001 to 1,520,000
+439,301 to 542,900
+330
+1,520,001 to 1,850,000
+542,901 to 660,700
+360
+1,850,001 to 2,270,000
+660,701 to 810,700
+390
+2,270,001 to 3,020,000
+810,701 to 1,078,600
+420
+3,020,001 to 3,960,000
+1,078,601 to 1,414,300
+450
+3,960,001 or more
+1,414,301 or more
+480
+1	For a transient-noncommunity water system, monthly population served shall 
+be based on the average number of persons served per day in a month.
+
+
+§64423.1. Sample Analysis and Reporting of Results.
+   (a) A public water system shall designate (label) each sample as routine, repeat, 
+replacement, or “other” pursuant to Section 64421(b), and have each sample analyzed 
+for total coliforms.  The system also shall require the laboratory to analyze the same 
+sample for Escherichia coli (E. coli) whenever the presence of total coliforms is 
+indicated. As a minimum, the analytical results shall be reported in terms of the 
+presence or absence of total coliforms and E. coli in the sample, whichever is 
+appropriate.  If directed by the State Board, based on an identified sanitary defect, 
+exceedance of a Level 1 or Level 2 coliform treatment technique trigger, history of total 
+coliform-positive samples within the past 12 consecutive months, or determination of a 
+possible significant rise in bacterial count in accordance with Section 64426, the 
+analytical results shall be reported in terms of coliform density of total coliforms and E. 
+coli, in the sample, whichever is appropriate.
+
+   (b) A public water system shall require the laboratory to notify the system within 24 
+hours, whenever the presence of total coliforms or E. coli is demonstrated in a sample 
+or a sample is invalidated due to interference problems, pursuant to Section 64425(b), 
+ensure that a contact person is available to receive these analytical results 24-hours a 
+day, and provide the name(s) and contact information of the contact person(s) to the 
+laboratory.  The system shall also require the laboratory to immediately notify the State 
+Board of any positive bacteriological results if the laboratory cannot make direct contact 
+with the designated contact person within 24 hours.
+   
+   (c) Analytical results of all required samples collected for a public water system in a 
+calendar month shall be reported to the State Board not later than the tenth day of the 
+following month, as follows:  
+      (1) Systems serving more than 400 service connections or 1000 persons, or a 
+wholesaler as defined in section 64402.20(a), shall submit a monthly summary of the 
+bacteriological monitoring results to the State Board, which shall contain the following: 
+         (A) Total number of samples collected; 
+         (B) Number, sample collection date, and sample location of all total coliform 
+and E. coli-positive samples;
+         (C) Number, sample collection date, sample location, and result of triggered 
+groundwater source samples collected; and
+         (D) Sample collection date, sample location, and result for all repeat samples 
+collected.
+      (2) Systems serving fewer than 10,000 service connections shall require the 
+laboratory to submit copies of all required bacteriological monitoring results directly to 
+the State Board; and 
+      (3) Systems serving 10,000 or more service connections shall require the 
+laboratory to submit copies of bacteriological monitoring results for all positive routine 
+samples and all repeat samples directly to the State Board.  
+
+   (d) A public water system in violation of the monitoring requirement of subsection (a) 
+to test the same sample for E. coli following a total coliform-positive routine sample shall 
+notify the State Board within 10 days after it learns of the violation and shall notify the 
+public pursuant to Sections 64463, 64463.7, and 64465.
+   
+   (e) A public water system in violation of the reporting requirement of subsection (c) 
+to report monitoring results to the State Board or subsection (d) to notify the State Board 
+shall notify the public pursuant to Sections 64463, 64463.7, and 64465.
+   
+§64424. Repeat Sampling.
+   (a) If a routine sample is total coliform-positive, a public water system shall collect a 
+repeat sample set as described in paragraph (1) within 24 hours of being notified of the 
+positive result.  The repeat samples shall all be collected within the same 24-hour time 
+period.  A single service connection system may submit a request to the State Board to 
+allow the collection of the repeat sample set over a three-day period. 
+      (1) A repeat sample set shall be at least three samples for each total coliform-
+positive sample. 
+      (2) If the system is unable to collect the samples within the 24-hour time period 
+specified in subsection (a) or deliver the samples to the laboratory within 24 hours after 
+collection because of circumstances beyond its control, the system shall notify the State 
+Board within 24 hours.  The State Board will then determine how much time the system 
+will have to collect the repeat samples.  
+
+   (b) Unless the condition for using alternative sampling locations or dual purpose 
+sampling locations in Table 64424-A or B, respectively, is met, when collecting the 
+repeat sample set, a public water system shall collect at least one repeat sample from 
+the sampling tap where the original total coliform-positive sample was taken. Other 
+repeat samples shall be collected within five service connections upstream or 
+downstream of the original site. At least one sample shall be from upstream and one 
+from downstream unless there is no upstream and/or downstream service connection. If 
+a total coliform-positive sample is at the end of the distribution system, or one service 
+connection away from the end of the distribution system, the system shall still take all 
+required repeat samples.  The system may submit a request to the State Board to use 
+an alternative sampling location in lieu of the requirement to collect at least one repeat 
+sample upstream or downstream of the original sampling site.  Except as provided in 
+Table 64424-B, a system required to conduct triggered source water monitoring under 
+40 CFR 141.402(a), which is incorporated by reference under Section 64430, shall take 
+groundwater (not GWUDI) source sample(s) in addition to repeat samples required 
+under this section.  If monitoring pursuant to Table 64424-B and in violation of the E. 
+coli MCL, the system shall comply with the additional Ground Water Rule requirements 
+in Table 64424-C.
+   
+Table 64424-A
+Alternative Sampling Locations
+
+Type of Water System
+Sampling Requirement
+Public water system
+The system may propose repeat monitoring 
+locations to the State Board that the system 
+believes to be representative of a pathway for 
+contamination of the distribution system.  The 
+system may elect to specify either alternative fixed 
+locations or criteria for selecting repeat sampling 
+sites on a situational basis in a standard operating 
+procedure (SOP) in its bacteriological sample siting 
+plan.  The system shall design its SOP to focus the 
+repeat samples at locations that best verify and 
+determine the extent of potential contamination of 
+the distribution system area based on specific 
+situations.
+
+
+Table 64424-B
+Dual Purpose Sampling Locations
+
+Type of Water System
+Sampling Requirement
+Public water system 
+using only a single 
+groundwater (not 
+GWUDI) well, serving 
+1,000 or fewer persons, 
+and required to conduct 
+triggered source water 
+monitoring under 40 
+CFR 141.402(a), which 
+is incorporated by 
+reference under Section 
+64430
+
+The system may propose repeat sampling locations 
+to the State Board that differentiate potential source 
+water and distribution system contamination (e.g., 
+by sampling at entry points to the distribution 
+system).  The system may submit a request to the 
+State Board to take one of its repeat samples at the 
+monitoring location required for triggered source 
+water monitoring (dual purpose sampling) under 40 
+CFR 141.402(a), which is incorporated by reference 
+under Section 64430, if the system demonstrates to 
+the State Board that the bacteriological sample 
+siting plan remains representative of water quality in 
+the distribution system.  If approved by the State 
+Board, the system may use that sample result to 
+meet the monitoring requirements in both 40 CFR 
+141.402(a), which is incorporated by reference 
+under Section 64430, and this section.
+
+
+Table 64424-C
+Additional Ground Water Rule Requirements
+
+Results of Dual Purpose Sampling that 
+Constitutes an E.coli MCL Violation
+Public Water System 
+Action Required
+A repeat sample taken at the monitoring 
+location required for triggered source 
+water monitoring is E. coli-positive
+
+The system shall comply with 40 
+CFR 141.402(a)(3), which is 
+incorporated by reference under 
+Section 64430.  If the system takes 
+more than one repeat sample at 
+the monitoring location required for 
+triggered source water monitoring, 
+the system may reduce the 
+number of additional source water 
+samples required under 40 CFR 
+141.402(a)(3), which is 
+incorporated by reference under 
+Section 64430, by the number of 
+repeat samples taken at that 
+location that were not E. coli-
+positive.
+
+A system takes more than one repeat 
+sample at the monitoring location 
+required for triggered source water 
+monitoring and more than one repeat 
+sample is E. coli-positive
+
+The system shall comply with 40 
+CFR 141.403(a)(1), which is 
+incorporated by reference under 
+Section 64430.
+
+All repeat samples taken at the 
+monitoring location required for triggered 
+source water monitoring are E. coli-
+negative and a repeat sample taken at a 
+monitoring location other than the one 
+required for triggered source water 
+monitoring is E.coli-positive
+
+The system is not required to 
+comply with 40 CFR 141.402(a)(3), 
+which is incorporated by reference 
+under Section 64430.
+
+
+(c) If one or more samples in the repeat sample set is total coliform-positive, a public 
+water system shall collect and have analyzed an additional set of repeat samples as 
+specified in subsections (a) and (b).  The system shall repeat this process until either no 
+total coliforms are detected in one complete repeat sample set or the system 
+determines that a coliform treatment technique trigger specified in Section 64426.7 has 
+been exceeded as a result of a repeat sample being total coliform-positive and notifies 
+the State Board by the end of the day on which this is determined.  If a treatment 
+technique trigger identified in Section 64426.7 is exceeded as a result of a routine 
+sample being total coliform-positive, the system is required to conduct only one round of 
+repeat monitoring for each total coliform-positive routine sample.
+
+   (d) A public water system in violation of the repeat sample monitoring requirements 
+of this section shall notify the State Board within 10 days after it learns of the violation 
+and notify the public pursuant to Sections 64463, 64463.7, and 64465.
+
+   (e) A public water system in violation of the reporting requirement in subsection (d) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+   
+§64425. Sample Invalidation.
+   (a) A public water system may request the State Board to invalidate a routine or 
+repeat sample for which a total coliform-positive result has been reported if the system 
+demonstrates:
+      (1) All repeat sample(s) collected at the same tap as the original total coliform-
+positive sample also are total coliform- positive and all repeat samples collected within 
+five service connections of the original tap are not total coliform-positive; or  
+      (2) The laboratory did not follow the prescribed analytical methods pursuant to 
+Section 64415(a), based on a review of laboratory documentation by the State Board.  
+The system shall submit to the State Board a written request for invalidation along with 
+the laboratory documentation, the system's sample collection records and any 
+observations noted during sample collection and delivery.  The system shall require the 
+laboratory to provide the system with documentation which shall include, but not be 
+limited to:  
+         (A) A letter from the director of the laboratory having generated the data, 
+confirming the invalidation request by reason of laboratory accident or error; 
+         (B) Complete sample identification, laboratory sample log number (if used), 
+date and time of collection, date and time of receipt by the laboratory, date and time of 
+analysis for the sample(s) in question;  
+         (C) Complete description of the accident or error alleged to have invalidated 
+the result(s);
+         (D) Copies of all analytical, operating, and quality assurance records 
+pertaining to the incident in question; and  
+         (E) Any observations noted by laboratory personnel when receiving and 
+analyzing the sample(s) in question.  
+
+   (b) Whenever any total coliform routine or repeat sample result indicative of the 
+absence of total coliforms has been declared invalid by the laboratory due to 
+interference problems as specified at 40 Code Federal Regulations, Section 
+141.853(c)(2) (78 Fed. Reg. 10270 (February 13, 2013)), which is incorporated by 
+reference, the public water system shall collect a replacement sample from the same 
+location as the original sample within 24 hours of being notified of the interference 
+problem, and have it analyzed for the presence of total coliforms.  The system shall 
+continue to re-sample at the original site within 24 hours and have the samples 
+analyzed until a valid result is obtained.  If the system is unable to collect the sample 
+within the 24-hour time period or deliver the sample to the laboratory within 24 hours 
+after collection because of circumstances beyond its control, the system shall notify the 
+State Board within 24 hours.  The State Board will then determine how much time the 
+system will have to collect the replacement sample.
+
+   (c) A total coliform-positive sample invalidated under this section does not count 
+towards meeting the minimum routine and repeat sample monitoring requirements of 
+Sections 64423 and 64424, respectively.
+   
+   (d) A public water system in violation of the replacement sample monitoring 
+requirements of subsection (b) shall notify the State Board within 10 days after it learns 
+of the violation and notify the public pursuant to Sections 64463, 64463.7, and 64465.
+   
+   (e) A public water system in violation of the reporting requirement in subsection (d) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+
+§64426. Significant Rise in Bacterial Count.
+   (a) A public water system shall determine whether a possible significant rise in 
+bacterial count has occurred for each month in which it is required to monitor for total 
+coliforms.  Results of all samples collected in a calendar month pursuant to Sections 
+64423, 64424, and 64425 that are not invalidated by the State Board or the laboratory 
+shall be included in determining a possible significant rise in bacterial count.  Special 
+purpose samples such as those listed in Section 64421(b) and special purpose samples 
+collected by a public water system during special investigations shall also be included to 
+determine a possible significant rise in bacterial count.
+   
+   (b) Any of the following criteria shall indicate a possible significant rise in bacterial 
+count:
+      (1) A public water system collecting at least 40 samples per month has a total 
+coliform-positive routine sample followed by two total coliform-positive repeat samples 
+in the repeat sample set;  
+      (2) A public water system has a sample which is positive for E. coli; or
+      (3) A system fails the E. coli Maximum Contaminant Level (MCL) as defined in 
+Section 64426.1. 
+
+   (c) When the coliform criteria specified in subsection (b) are reached or exceeded, 
+the public water system shall:  
+      (1) Contact the State Board by the end of the day on which the system is notified 
+of the test result(s); and  
+      (2) Within 24 hours on which the system is notified of the test result(s), conduct 
+and investigation and submit to the State Board information on the current status of 
+physical works and operating procedures which may have caused the elevated 
+bacteriological findings, or any information on community illness suspected of being 
+waterborne. This shall include, but not be limited to:  
+         (A) Current operating procedures that are or could potentially be related to the 
+increase in bacterial count;  
+         (B) Any interruptions in the treatment process;  
+         (C) System pressure loss to less than 5 psi;
+         (D) Vandalism and/or unauthorized access to facilities; 
+         (E) Evidence indicating bacteriological contamination of facilities; 
+         (F) Analytical results of any additional samples collected, including source 
+samples;
+         (G) Community illness suspected of being waterborne; and
+         (H) Records of the investigation and any action taken.
+
+   (d) As soon as possible within 24 hours of receiving notification from the State Board 
+determining there is a significant rise in bacterial count, based on the information 
+submitted under subsection (c)(2), the public water system shall implement the 
+emergency notification plan required by Section 116460, Health and Safety Code.
+   
+   (e) Within 30 days on which the system is notified of the test result(s) indicating a 
+possible significant rise in bacterial count, submit to the State Board a report on the 
+investigation, sanitary defects detected (and if applicable, may note no sanitary defects 
+were detected), corrective actions completed, and a proposed timetable for any 
+corrective actions not already completed. The system shall notify the State Board within 
+five business days when each scheduled corrective action is completed. 
+   
+   (f) A public water system in violation of the reporting requirement in subsection (c)(1) 
+to notify the State Board when a routine or repeat sample is E. coli-positive shall notify 
+the public pursuant to Sections 64463, 64463.7, and 64465.
+
+§64426.1. E.coli Maximum Contaminant Level (MCL).
+(a) A public water system shall determine compliance with the E. coli MCL for each 
+month in which it is required to monitor for total coliforms.  Results of all samples 
+collected in a calendar month pursuant to Sections 64423, 64424, and 64425 that are 
+not invalidated by the State Board or the laboratory shall be included in determining 
+compliance with the E. coli MCL.  Special purpose samples such as those listed in 
+section 64421(b) and special purpose samples collected by a public water system 
+during special investigations shall not be used to determine compliance with the E. coli 
+MCL.  
+
+   (b) A public water system is in violation of the E. coli MCL when any of the following 
+occurs:  
+      (1) The system has an E. coli-positive repeat sample following a total coliform-
+positive routine sample;
+      (2) The system has a total coliform-positive repeat sample following an E. coli-
+positive routine sample;
+      (3) The system fails to take all required repeat samples following an E. coli-
+positive routine sample; or
+      (4) The system fails to test for E. coli when any repeat sample tests positive for 
+total coliform.
+
+   (c) If a public water system is not in compliance with subsections (b)(1) through (4), 
+during any month in which it supplies water to the public, the system shall notify the 
+State Board by the end of the day on which this is determined. The system shall also 
+notify the public pursuant to Sections 64463, 64463.1, and 64465.
+    
+   (d) A public water system in violation of the reporting requirement in subsection (c) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+   
+   (e) A public water system shall not be eligible for a variance or exemption from the 
+E. coli MCL.
+   
+§64426.5. Variance from Total Coliform Maximum Contaminant Level. [deleted]
+
+§64426.6. Coliform Treatment Technique.
+   (a) A public water system is in violation of the coliform treatment technique when 
+either of the following occurs:
+      (1) The system exceeds a treatment technique trigger specified in Section 
+64426.7 and then fails to conduct the required assessment or corrective actions within 
+the timeframe specified in Section 64426.8; or
+      (2) A seasonal system fails to complete a State Board-approved start-up 
+procedure prior to serving water to the public.
+      
+   (b) A public water system in violation of the coliform treatment technique shall notify 
+the State Board by the end of the next business day on which this is determined.  The 
+system shall also notify the public pursuant to Sections 64463, 64463.4, and 64465.
+   
+   (c) A public water system in violation of the reporting requirement in subsection (b) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+§64426.7. Coliform Treatment Technique Triggers.
+   (a) A public water system shall determine whether a coliform treatment technique 
+trigger has been exceeded for each month in which it is required to monitor for total 
+coliforms.  Results of all samples collected in a calendar month pursuant to Sections 
+64423,64424, and 64425 that are not invalidated by the State Board or the laboratory 
+shall be included in determining if a coliform treatment technique trigger has been 
+exceeded.  Special purpose samples such as those listed in Section 64421(b) and 
+special purpose samples collected by a public water system during special 
+investigations shall not be used to determine if a coliform treatment technique trigger 
+has been exceeded.
+   
+   (b) A public water system exceeds a Level 1 treatment technique trigger if any of the 
+following occurs:
+      (1) For a system taking 40 or more samples per month, the system exceeds 
+5.0% total coliform-positive samples for the month;
+      (2) For a system taking fewer than 40 samples per month, the system has two or 
+more total coliform-positive samples in the same month; or
+      (3) The system fails to take every required repeat samples after any single total 
+coliform-positive sample.
+      
+   (c) A public water system exceeds a Level 2 treatment technique trigger if either of 
+the following occurs:
+      (1) The system has an E. coli MCL violation; or
+      (2) The system has a second Level 1 treatment technique trigger, within a rolling 
+12-month period, unless the State Board has determined a likely reason that the 
+samples that caused the first Level 1 treatment technique trigger were total coliform-
+positive and has established that the system has corrected the problem.
+
+§64426.8. Level 1 and Level 2 Assessments and Corrective Actions.
+   (a) If a public water system exceeds a Level 1 treatment technique trigger in Section 
+64426.7(b), the system shall:
+      (1) Direct the system operator or owner to conduct and complete a Level 1 
+assessment as soon as practical after exceeding any trigger;
+      (2) Ensure that the assessment is conducted to identify the possible presence of 
+sanitary defects and defects in distribution system coliform monitoring practices.  The 
+assessment shall include a review and identification of the minimum elements in 
+subparagraphs (A) through (E) and shall describe sanitary defects detected (and if 
+applicable, may note no sanitary defects were detected), corrective actions completed, 
+and a proposed timetable for any corrective actions not already completed:
+         (A) Inadequacies in sample sites, sampling protocol, and sample processing;
+         (B) Atypical events that could affect distributed water quality or indicate that 
+distributed water quality was impaired; 
+         (C) Changes in distribution system maintenance and operation that could 
+affect distributed water quality (including water storage); 
+         (D) Source and treatment considerations that bear on distributed water 
+quality, where appropriate (e.g., small groundwater systems or whether a groundwater 
+system is disinfected); and
+   (E) Existing water quality monitoring data;
+      (3) Conduct the assessment consistent with any State Board directives that tailor 
+specific assessment elements with respect to the size and type of the water system and 
+the size, type, and characteristics of the distribution system;
+      (4) Within 30 days after the system learns that it has exceeded a trigger, submit 
+to the State Board the completed assessment; and
+      (5) If directed by the State Board, based on its determination that the completed 
+assessment is not sufficient (including any proposed timetable for any corrective actions 
+not already completed), submit a revised completed assessment to the State Board 
+within 30 days.
+   
+   (b) If a public water system exceeds a Level 2 treatment technique trigger in Section 
+64426.7(c), the system shall:
+      (1) Arrange with the State Board to conduct and complete a Level 2 assessment, 
+that includes a review and identification of the minimum elements in subsections 
+(a)(2)(A) through (E) to identify the possible presence of sanitary defects and defects in 
+distribution system coliform monitoring practices, as soon as practical after exceeding 
+any trigger;
+      (2) Comply with any expedited actions or additional actions required by the State 
+Board in the case of an E. coli MCL violation;
+      (3) Within 30 days after the system learns that it has exceeded a trigger, submit 
+to the State Board a completed assessment that includes the State Board assessment 
+and describes sanitary defects detected (and if applicable, may note no sanitary defects 
+were detected), corrective actions completed, and a proposed timetable for any 
+corrective actions not already completed; and
+      (4) If directed by the State Board, based on its determination that the completed 
+assessment is not sufficient (including any proposed timetable for any corrective actions 
+not already completed), submit a revised description of corrective actions completed 
+and a proposed timetable for any corrective actions not already completed to the State 
+Board within 30 days.
+   
+   (c) A public water system shall correct sanitary defects found through either a Level 
+1 or Level 2 assessment conducted under subsection (a) or (b), respectively.  For 
+corrections not completed by the time of submission of the completed assessment, the 
+system shall complete the corrective action(s) in compliance with a State Board-
+approved timetable.  The system shall notify the State Board within five business days 
+when each scheduled corrective action is completed.
+   
+   (d)  A public water system in violation of the reporting requirement of subsection 
+(a)(4) or (b)(3) to submit a completed assessment to the State Board or subsection (c) 
+to notify the State Board shall notify the public pursuant to Sections 64463, 64464.7, 
+and 64465.
+§64426.9. Seasonal System Start-Up Procedure.
+   (a) By October 1, 2021, an existing seasonal system shall develop and submit to the 
+State Board a start-up procedure.  The procedure shall include, but not be limited to, the 
+following:
+      (1) Inspection of water system components, including each source, treatment 
+facility, distribution main, and distribution reservoir;
+      (2) Disinfection and flushing of water system components;
+      (3) Bacteriological monitoring, at each source (prior to treatment), each 
+distribution reservoir, and, whichever results in the greater number of samples, each 
+pressure zone or a minimum of three samples from the distribution system.  The 
+location of the distribution system samples shall be specified in the procedure;
+      (4) Disinfectant residual monitoring, at the same points and at the same time as 
+total coliforms are sampled in paragraph (3);
+      (5) Use of certified distribution operator(s) to supervise or perform activities in 
+paragraphs (1) through (4); and
+      (6) Notification of the State Board of system shutdown and prior to serving water 
+to the public.
+   
+   (b) Prior to serving water to the public, a seasonal system shall:
+      (1) Complete a State Board-approved start-up procedure;
+      (2) Certify to the State Board it has complied with the State Board-approved 
+start-up procedure;
+      (3) Submit to the State Board results of bacteriological and disinfectant residual 
+monitoring performed under subsections (a)(3) and (4), respectively; and
+      (4) Obtain written State Board approval to serve water to the public.
+   
+   (c) If the entire distribution system remains pressurized during the period a seasonal 
+system is not operating, the seasonal system may submit a request to the State Board 
+to be exempt from some or all of the requirements in subsections (a)(1) through (5).
+   
+   (d) A seasonal system that proposes to use an alternative to a start-up procedure 
+requirement in subsections (a)(1) through (5) shall:
+      (1) Demonstrate to the State Board that the proposed alternative would provide 
+at least the same level of protection to public health; and
+      (2) Obtain written approval from the State Board prior to implementation of the 
+alternative.
+      
+   (e) A public water system in violation of the reporting requirement in subsections (b) 
+and (b)(2) to certify completion of a State Board-approved start-up procedure prior to 
+serving water to the public shall notify the public pursuant to Sections 64463, 64463.7, 
+and 64465.
+
+§64427. Sanitary Survey.
+Systems which collect less than five routine samples per month shall be subject to an 
+initial sanitary survey by the Department by June 29, 1994 for community water 
+systems and June 29, 1999 for nontransient-noncommunity and transient-
+noncommunity water systems. Sanitary surveys shall be repeated every five years.
+
+Article 3.5. Ground Water Rule
+§64430. Requirements.
+A public water system that uses ground water shall comply with the following provisions 
+of 40 Code of Federal Regulations as they appear in the Ground Water Rule published 
+in 71 Federal Register 65574 (November 8, 2006) and amended in 71 Federal Register 
+67427 (November 21, 2006), 74 Federal Register 30953 (June 29, 2009), and 78 
+Federal Register 10270 (February 13, 2013), which are hereby incorporated by 
+reference:  Sections 141.21(d)(3), 141.28(a), 141.153(h)(6), Appendix A to Subpart O 
+(Consumer Confidence Reports), 141.202(a)(8), 141.203(a)(4), Appendices A and B to 
+Subpart Q (Public Notification), and 141.400 through 141.405, except that in:
+   (a) Sections141.402(a)(1)(iii), (a)(2), (a)(4)(i), (a)(4)(ii)(A), (a)(5)(i), and (a)(5)(ii), the 
+phrase “§§ 141.854 through 141.857” is replaced by “22 California Code of Regulation 
+Section 64423”;
+   
+   (b) Section 141.402(a)(1)(iii), the phrase “§ 141.853(c)” is replaced by “22 California 
+Code of Regulation Section 64425”;
+   
+   (c) Section 141.402(a)(2)(ii), the phrase “§ 141.853” is replaced by “22 California 
+Code of Regulation Section 64422”;
+
+   (d) Section 141.402(a)(2)(iv), the phrases “subpart Y” and “§ 141.858” are replaced 
+by “22 California Code of Regulation Section 64424”; and 
+
+   (e) Section 141.405(b)(4), the phrase “§ 141.853” is replaced by “22 California Code 
+of Regulation Section 64425”.
+   
+[Note: The text reflecting the above section is provided in Addendum A of this 
+book.]
+
+NOTE:  This publication is meant to be an aid to the staff of the State Board’s Division of Drinking Water 
+and cannot be relied upon by the regulated community as the State of California’s representation of the 
+law.  The published codes are the only official representation of the law.  Refer to the published codes—in 
+this case, 17 CCR and 22 CCR—whenever specific citations are required.  Statutes related to the State 
+Board’s drinking water-related activities are in the Health & Safety Code, the Water Code, and other 
+codes.
+1
+
+1
+Last updated July 2021—from Titles 17 and 22 California Code of Regulations
+California Regulations Related to Drinking Water
