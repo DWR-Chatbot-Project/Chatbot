@@ -1,0 +1,4 @@
+.env
+/public/__pycache__
+/public/spiders/__pycache__
+calregs.json
