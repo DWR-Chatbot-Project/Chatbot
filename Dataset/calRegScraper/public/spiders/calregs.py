@@ -1,11 +1,14 @@
-from scrapy.spiders import CrawlSpider, Rule
-import scrapy
-from scrapy.linkextractors import LinkExtractor
-from dotenv import load_dotenv
-from w3lib.url import url_query_cleaner
-from public.items import Regulation
-import re, os, urllib.parse
+import os
+import re
+import urllib.parse
 
+import scrapy
+from dotenv import load_dotenv
+from scrapy.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
+from w3lib.url import url_query_cleaner
+
+from public.items import Regulation
 
 load_dotenv()
 
@@ -19,8 +22,8 @@ class RuleSpider(CrawlSpider):
     name = 'calregs'
     allowed_domains = ['govt.westlaw.com']
     # start_urls = [
-    #     'https://govt.westlaw.com/calregs/Index?transitionType=Default&contextData=%28sc.Default%29',
-    #     'https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I717E98405B6111EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)']
+    #     "https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I717E98405B6111EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)"
+    # ]
     
     rules = (
         Rule(LinkExtractor(
@@ -45,43 +48,50 @@ class RuleSpider(CrawlSpider):
         yield scrapy.Request(url=start_url, callback=self.parse_response)
     
     def parse_response(self, response):
-        item = Regulation()
-        # links = response.xpath("//*[@id='co_contentColumn']")
         links = response.xpath("//ul[@class='co_genericWhiteBox']/li/a/@href")
         
         for link in links:
             url = link.get()
             page_url = f"https://govt.westlaw.com/{url}"
             
-            yield scrapy.Request(page_url, callback=self.parse_chapter, meta={"item": item})
+            # yield scrapy.Request(page_url, callback=self.parse_chapter, meta={"item": item})
+            yield response.follow(page_url, callback=self.parse_chapter)
+
         
-    def parse_chapter(self, response):
-        item = response.meta["item"]
-        item["chapter"] = response.xpath("//h1/text()").get()
-        
+    def parse_chapter(self, response):        
         links = response.xpath("//ul[@class='co_genericWhiteBox']/li/a/@href")
         
         for link in links:
             url = link.get()
             page_url = f"https://govt.westlaw.com/{url}"
             
-            yield scrapy.Request(page_url, callback=self.parse_article, meta={"item": item})
+            # yield scrapy.Request(page_url, callback=self.parse_article, meta={"item": item})
+            yield response.follow(page_url, callback=self.parse_article)
             
-    def parse_article(self, response):
-        item = response.meta["item"]
-        item["article"] = response.xpath("//h1/text()").get()
-        
+    def parse_article(self, response):        
         links = response.xpath("//ul[@class='co_genericWhiteBox']/li/a/@href")
         
         for link in links:
             url = link.get()
             page_url = f"https://govt.westlaw.com/{url}"
             
-            yield scrapy.Request(page_url, callback=self.parse_page, meta={"item": item})
+            # yield scrapy.Request(page_url, callback=self.parse_page, meta={"item": item})
+            yield response.follow(page_url, callback=self.parse_page)
+
     
     def parse_page(self, response):
-        # item['rule_url'] = response.url
-        item = response.meta["item"]
+        item = Regulation()
+        prelim = response.css("#co_prelimContainer").xpath(".//text()").getall()
+        # >>> response.css("#co_prelimContainer").xpath(".//text()").getall()
+        # ['Title 22. Social Security', ' Division 4. Environmental Health', 
+        # ' Chapter 2. Regulations for the Implementation of the California 
+        # Environmental Quality Act', ' Article 1. General Requirements 
+        # and Categorical Exemptions']
+        _, _, chapter, article = prelim if len(prelim) >= 4 else [""]*4
+
+        item["chapter"] = chapter.strip() if chapter else ""
+        item["article"] = article.strip() if article else ""
+
         item["title"] = response.xpath("//div[@class='co_title']/div/strong/text()").get()
         
         str = ""
@@ -90,5 +100,5 @@ class RuleSpider(CrawlSpider):
             str = str.join(text)
             
         item['paragraphText'] = str
-        return item
+        yield item
         
