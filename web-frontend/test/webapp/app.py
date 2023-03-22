@@ -2,15 +2,10 @@ import json
 
 from botRespond import generate_response
 from flask import Flask, flash, render_template, request
-from predict import predict
 
 app = Flask(__name__)
 
 app.secret_key = 'asdf'
-
-AVERAGE_SQUARE_FOOTAGE = 1827
-AVERAGE_PRICE_PER_SQUARE_FOOT = 195
-NON_DISCLOSURE_STATES = ['AK', 'ID', 'KS', 'LA', 'MI', 'MO', 'MN', 'MT', 'NM', 'ND', 'TX', 'UT', 'WY']
 
 @app.route('/', methods=['GET', 'POST'])
 # def home():

@@ -1,2 +1,3 @@
-web-frontend/ui/webapp/__pycache__
-web-frontend/ui/webapp/venv
+web-frontend/test/venv
+web-frontend/ui/__pycache__
+web-frontend/ui/venv
