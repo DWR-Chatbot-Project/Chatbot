@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = "public.spiders"
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 5
+CONCURRENT_REQUESTS = 20
 RETRY_TIMES = 5
 
 # Configure a delay for requests for the same website (default: 0)
@@ -63,9 +63,9 @@ RETRY_TIMES = 5
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "ruleScraper.pipelines.RulescraperPipeline": 300,
-#}
+ITEM_PIPELINES = {
+   "public.pipelines.RulescraperPipeline": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
