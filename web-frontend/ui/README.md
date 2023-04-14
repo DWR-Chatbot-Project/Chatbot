@@ -1,4 +1,4 @@
-# FlaskIntroduction
+# CA Water Regulations Chatbot
 
 This repo has been updated to work with `Python v3.8` and up.
 
@@ -39,6 +39,7 @@ This server will start on port 5000 by default. You can change this in `app.py` 
 
 ```python
 if __name__ == "__main__":
+    index=initialize_index("index.json")
     app.run(debug=True, port=<desired port>)
 ```
 
