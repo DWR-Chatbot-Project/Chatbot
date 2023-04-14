@@ -2,3 +2,4 @@ web-frontend/test/venv
 web-frontend/test/__pycache__
 web-frontend/ui/__pycache__
 web-frontend/ui/venv
+web-frontend/ui/.env
