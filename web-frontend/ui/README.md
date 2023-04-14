@@ -13,6 +13,7 @@ $ pip install virtualenv
 2. Open a terminal in the project root directory and run:
 
 ```
+$ cd web-frontend/ui
 $ virtualenv env
 ```
 
@@ -43,9 +44,10 @@ if __name__ == "__main__":
 
 ## Contributing
 
-Since this is a repository for a tutorial, the code should remain the same as the code that was shown in the tutorial. Any pull requests that don't address security flaws or fixes for language updates will be automatically closed. Style changes, adding libraries, etc are not valid changes for submitting a pull request.
+Any pull requests that don't address security flaws or fixes for language updates will be automatically closed. Style changes, adding libraries, etc are valid changes for submitting a pull request.
 
 ## Tutorials
 
 -   https://buffml.com/web-based-chatbot-using-flask-api/
-- https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+-   https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+-   https://gpt-index.readthedocs.io/en/latest/guides/tutorials/fullstack_app_guide.html
