@@ -5,7 +5,7 @@ This project aims to build a chatbot that is capable of answering user questions
 
 Project team members include talented students participating in the UCB Data Science Discovery Programwater as well as industry professionals at the California Data Collaborative and the California Water Resource Control Boards.
 
-A pdf copy and a word copy of the regulations can be found in the Regulations folder. Alternatively the regulations can be scraped from the following website:
+The regulations can be scraped from the following website:
 https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I717E98405B6111EC9451000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)&bhcp=1
 
 The examples folder includes the following code examples:
