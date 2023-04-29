@@ -1,0 +1,43 @@
+,0,1
+0,Contaminant,Major origins in drinking water
+1,Microbiological   ,
+2,Total coliform bacteria   ,Naturally present in the environment   
+3,E. coli   ,Human and animal fecal waste   
+4,Turbidity   ,Soil runoff 
+5,,
+6,Surface water treatment,
+7,Giardia lamblia,Naturally present in the environment
+8,Viruses,Naturally present in the environment
+9,Heterotrophic plate count bacteria,Naturally present in the environment
+10,Legionella,Naturally present in the environment
+11,Cryptosporidium,Naturally present in the environment
+12,,
+13,Radioactive   , 
+14,Gross Beta particle activity   ,Decay of natural and man-made deposits   
+15,Strontium-90   ,Decay of natural and man-made deposits   
+16,Tritium   ,Decay of natural and man-made deposits   
+17,Gross Alpha particle activity   ,Erosion of natural deposits   
+18,Combined Radium 226/228   ,Erosion of natural deposits   
+19,Total Radium (for nontransient noncommunity water systems),Erosion of natural deposits
+20,Uranium   ,Erosion of natural deposits   
+21,,
+22,Inorganic   ,
+23,Aluminum   ,Erosion of natural deposits; residue from some surface water treatment processes   
+24,Antimony   ,Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder   
+25,Arsenic   ,Erosion of natural deposits; runoff from orchards;  glass and electronics production wastes   
+26,Asbestos   ,Internal corrosion of asbestos cement water mains; erosion of natural deposits   
+27,Barium   ,Discharges of oil drilling wastes and from metal  refineries; erosion of natural deposits   
+28,Beryllium   ,"Discharge from metal refineries, coal-burning factories, and electrical, aerospace, and defense industries   "
+29,Cadmium   ,"Internal corrosion of galvanized pipes; erosion of  natural deposits; discharge from electroplating and industrial chemical factories, and metal refineries; runoff from waste batteries and paints   "
+30,Chromium   ,Discharge from steel and pulp mills and chrome plating; erosion of natural deposits   
+31,Copper   ,Internal corrosion of household plumbing systems; erosion of natural deposits; leaching from wood preservatives   
+32,Cyanide   ,"Discharge from steel/metal, plastic and fertilizer  factories   "
+33,Fluoride   ,Erosion of natural deposits; water additive that promotes strong teeth; discharge from fertilizer and aluminum factories   
+34,Lead   ,Internal corrosion of household water plumbing systems; discharges from industrial manufacturers; erosion of natural deposits   
+35,Mercury   ,Erosion of natural deposits; discharge from refineries and factories; runoff from landfills and cropland   
+36,Nickel   ,Erosion of natural deposits; discharge from metal factories   
+37,Nitrate   ,Runoff and leaching from fertilizer use; leaching from septic tanks and sewage; erosion of natural deposits   
+38,Nitrite   ,Runoff and leaching from fertilizer use; leaching from septic tanks and sewage; erosion of natural deposits   
+39,Perchlorate,"Perchlorate is an inorganic chemical used in solid rocket propellant, fireworks, explosives, flares, matches, and a variety of industries.  It usually gets into drinking water as a result of environmental contamination from historic aerospace or other industrial operations that used or use, store, or dispose of perchlorate and its salts."
+40,Selenium   ,"Discharge from petroleum, glass, and metal refineries; erosion of natural deposits; discharge from mines and chemical manufacturers; runoff from livestock lots (feed additive)   "
+41,Thallium   ,"Leaching from ore-processing sites; discharge from electronics, glass, and drug factories   "

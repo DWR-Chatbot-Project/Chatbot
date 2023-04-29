@@ -1,0 +1,169 @@
+,0,1,2
+0,System No.  , System Name  ,Priority  
+1, 3710010  , Helix Water District  , 1  
+2, 5610017  ," Ventura, City of  ", 2  
+3, 4110013  ," Daly City, City of  ", 3  
+4, 3710006  ," Escondido, City of  ", 4  
+5, 4210011  ," Santa Maria, City of  ", 5  
+6, 3410009  , Fair Oaks Water District  , 6  
+7, 1910083  ," Manhattan Beach, City of  ", 7  
+8, 3710025  , Sweetwater Authority  , 8  
+9, 4210010  ," Santa Barbara, City of  ", 9  
+10, 0910001  , El Dorado Irrigation District  , 10  
+11, 3410006  , Citrus Heights Water District  , 11  
+12, 4410010  ," Santa Cruz, City of  ", 12  
+13, 3610039  ," San Bernardino, City of  ", 13  
+14, 3310009  , Eastern Municipal Water District  , 14  
+15, 3710037  , Padre Dam Municipal Water District  , 15  
+16, 1910067  ," Los Angeles, City of  ", 16  
+17, 2810003  ," Napa, City of  ", 17  
+18, 3710020  ," San Diego, City of  ", 18  
+19, 3710034  , Otay Water District  , 19  
+20, 3310031  ," Riverside, City of  ", 20  
+21, 1910173  ," Whittier, City of  ", 21  
+22, 3410020  ," Sacramento, City of  ", 22  
+23, 1910139  , California American Water Company - San Marino  , 23  
+24, 3710021  , San Dieguito Water District  , 24  
+25, 3610024  , Hesperia Water District  , 25  
+26, 1910179  ," Burbank, City of  ", 26  
+27, 2710004  , California American Water Company - Monterey  , 27  
+28, 3310049  , Western Municipal Water District  , 28  
+29, 3010073  , Moulton Niguel Water District  , 29  
+30, 3010101  , Santa Margarita Water District  , 30  
+31, 1910239  ," Lakewood, City of  ", 31  
+32, 2110003  , North Marin Water District  , 32  
+33, 3010037  , Yorba Linda Water District  , 33  
+34, 3710015  ," Poway, City of  ", 34  
+35, 3110025  , Placer County Water Agency  , 35  
+36, 5010010  ," Modesto, City of  ", 36  
+37, 1910126  ," Pomona, City of  ", 37  
+38, 3410004  , Carmichael Water District  , 38  
+39, 1910043  ," Glendale, City of  ", 39  
+40, 3610018  , Cucamonga Community Water District  , 40  
+41, 3910011  ," Tracy, City of  ", 41  
+42, 1910234  , Walnut Valley Water District  , 42  
+43, 3910012  ," Stockton, City of  ", 43  
+44, 1910146  ," Santa Monica, City of  ", 44  
+45, 3710027  , Vista Irrigation District  , 45  
+46, 3010018  ," La Habra, City of  ", 46  
+47, 1910009  , Valley County Water District  , 47  
+48, 3310012  , Elsinore Valley Municipal Water District  , 48  
+49, 1910051  ," Inglewood, City of  ", 49  
+50, 3710005  , Carlsbad Municipal Water District  , 50  
+51, 4210004  , Goleta Water District  , 51  
+52, 1910213  ," Torrance, City of  ",52  
+53, 1910152  ," South Gate, City of  ", 53  
+54, 1910155  , Southern California Water Company - Southwest  , 54  
+55, 1510017  , Indian Wells Valley Water District   , 55  
+56, 1910039  , San Gabriel Valley Water Company - El Monte  , 56  
+57, 1610003  ," Hanford, City of  ", 57  
+58, 3310037  ," Corona, City of  ", 58  
+59, 3010062  ," Garden Grove, City of  ", 59  
+60, 3610003  , Apple Valley Ranchos Water Community  , 60  
+61, 3610036  ," Chino Hills, City of  ", 61  
+62, 3010064  ," Westminster, City of  ", 62  
+63, 4310011  , San Jose Water Company  , 63  
+64, 3610012  ," Chino, City of  ", 64  
+65, 3910004  ," Lodi, City of  ", 65  
+66, 5610007  ," Oxnard, City of  ", 66  
+67, 1910019  ," Cerritos, City of  ", 67  
+68, 1910205  , Suburban Water Systems - San Jose Hills  , 68  
+69, 1910059  , Suburban Water Systems - La Mirada  , 69  
+70, 1910092  ," Monterey Park, City of  ", 70  
+71, 1910174  , Suburban Water Systems - Whittier  , 71  
+72, 1910026  ," Compton, City of  ", 72  
+73, 1910124  ," Pasadena, City of  ", 73  
+74, 3310022  , Lake Hemet Municipal Water District  , 74  
+75, 1910142  , Southern California Water Company - San Dimas  , 75  
+76, 4510005  ," Redding, City of  ", 76  
+77, 3610037  ," Redlands, City of  ", 77  
+78, 3910005  ," Manteca, City of  ", 78  
+79, 3710014  ," Oceanside, City of  ", 79  
+80, 3610038  ," Rialto, City of  ", 80  
+81, 4310022  , Great Oaks Water Company  , 81  
+82, 4310014  ," Sunnyvale, City of  ", 82  
+83, 3310021  , Jurupa Community Services District  , 83  
+84, 3410001  , Arcade- Town & County  , 84  
+85, 3610052  , Victor Valley Water District  , 85  
+86, 3010023  ," Newport Beach, City of  ", 86  
+87, 3610064  , East Valley Water District  , 87  
+88, 1910225  , Las Virgenes Municipal Water District  , 88  
+89, 3710001  , California American Water Company - Coronado  , 89  
+90, 3610034  ," Ontario, City of  ", 90  
+91, 3910001  , California Water Service Company - Stockton  , 91  
+92, 1910033  , Dominguez Water Agency  , 92  
+93, 5410015  ," Tulare, City of  ", 93  
+94, 5710006  ," Woodland, City of  ", 94  
+95, 3710029  , Olivenhain Municipal Water District  , 95  
+96, 1910003  ," Arcadia, City of  ", 96  
+97, 1910008  , Azusa Valley Water Company  , 97  
+98, 4410011  ," Watsonville, City of  ", 98  
+99, 3010003  ," Buena Park, City of  ", 99  
+100, 4310005  ," Milpitas, City of  ", 100  
+101, 1910017  , Santa Clarita Water Company  , 101  
+102, 1910240  , Valencia Water Company  , 102  
+103, 3610004  , West San Bernardino Water District  , 103  
+104, 0910002  , South Tahoe Public Utilities District  , 104  
+105, 5610059  , Southern California Water Company - Simi Valley  , 105  
+106, 3010027  ," Orange, City of  ", 106  
+107, 5410010  ," Porterville, City of  ", 107  
+108, 4410017  , Soquel Creek Water District  ,  108  
+109, 4110023  ," San Bruno, City of  ", 109  
+110, 1910001  ," Alhambra, City of  ", 110  
+111, 3010022  , Southern California Water Company-West Orange County  , 111  
+112, 3010091  , Los Alisos Water District  , 112  
+113, 3610050  ," Upland, City of  ", 113  
+114, 3410024  , Northridge Water District  , 114  
+115, 1010003  ," Clovis, City of  ", 115  
+116, 3010004  , Mesa Consolidated Water District  , 116  
+117, 3610041  , San Gabriel Valley Water Company -  Fontana  , 117  
+118, 3410010  , Citizens Utilities Company of California -  Suburban  , 118  
+119, 3010038  ," Santa Ana, City of  ", 119  
+120, 3010092  , Irvine Ranch Water District  , 120  
+121, 1910211  , Park Water Company - Bellflower  , 121  
+122, 3010010  ," Fullerton, City of  ", 122  
+123, 4310007  ," Mountain View, City of  ", 123  
+124, 3010036  ," San Clemente, City of  ", 124  
+125, 3010079  , El Toro Water District  , 125  
+126, 5610020  ," Thousand Oaks, City of  ", 126  
+127, 3610029  , Monte Vista Water District  , 127  
+128, 1910004  , Southern California Water Company - Artesia  , 128  
+129, 4210016  , Southern California Water Company - Orcutt  , 129  
+130, 4110008  , California Water Service Company - San Mateo  , 130  
+131, 1310038  , Rancho California Water District  , 131  
+132, 3410017  , Citizens Utilities Company of California - Parkway  , 132  
+133, 1910024  , Southern California Water Company - Claremont  , 133  
+134, 1910044  ," Glendora, City of  ", 134  
+135, 3010001  ," Anaheim, City of  ", 135  
+136, 5710001  ," Davis, City of  ", 136  
+137, 1910134  , California Water Service Company-Hermosa/Redondo  , 137  
+138, 1010007  ," Fresno, City of  ", 138  
+139, 1910102  , Palmdale Water District  , 139  
+140, 4310012  ," Santa Clara, City of  ", 140  
+141, 2710010  , California Water Service Company - Salinas  , 141  
+142, 4910006  ," Petaluma, City of  ", 142  
+143, 1910036  , California Water Service Company - East Los Angeles  , 143  
+144, 3410013  , Citizens Utilities Company of California - Lincoln Oaks  , 144  
+145, 3310001  , Coachella Valley Water District  , 145  
+146, 5010019  ," Turlock, City of  ", 146  
+147, 5410016  , California Water Service Company - Visalia  , 147  
+148, 5610023  , Waterworks District 8-Simi Valley  , 148  
+149, 0410002  , California Water Service Company - Chico  , 149  
+150, 1910104  , California Water Service Company - Palos Verdes  , 150  
+151, 3410015  , Southern California Water Company - Corodva   , 151  
+152, 4910009  ," Santa Rosa, City of  ", 152  
+153, 1910194  , Rowland Water District  , 153  
+154, 1510003  , California Water Service Company - Bakersfield  , 154  
+155, 5610040  , California American Water Company -  Village District  , 155  
+156, 3310005  , Desert Water Agency  , 156  
+157, 0110003  , California Water Service Company - Livermore  , 157  
+158, 3010046  ," Tustin, City of  ", 158  
+159, 4310001  , California Water Service Company - Los Altos Suburban  , 159  
+160, 4110007  , California Water Service Company - San Carlos  , 160  
+161, 1910070  ," Los Angeles, County Water Works District 4&34- Lancaster  ", 161  
+162, 1510031  ," Bakersfield, City of  ", 162  
+163, 4110009  , California Water Service Company - South San Francisco  , 163  
+164, 3010053  ," Huntington Beach, City of  ", 164  
+165, 4110006  , California Water Service Company - Bear Gulch  , 165  
+166, 1910034  ," Downey, City of  ", 166  
+167, 4110022  , Redwood City  , 167  

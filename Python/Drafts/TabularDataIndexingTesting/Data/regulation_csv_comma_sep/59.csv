@@ -1,0 +1,17 @@
+,0,1,2
+0,Disinfection Byproduct,"Maximum Contaminant Level
+(mg/L)",Detection Limit for Purposes of Reporting (mg/L)
+1,Total trihalomethanes (TTHM),0.080,
+2,     Bromodichloromethane,,  0.0010
+3,     Bromoform,,  0.0010
+4,     Chloroform,,  0.0010
+5,     Dibromochloromethane,,  0.0010
+6,Haloacetic acids (five) (HAA5),0.060,
+7,     Monochloroacetic Acid,,  0.0020
+8,     Dichloroacetic Acid,,  0.0010
+9,     Trichloroacetic Acid,,  0.0010
+10,     Monobromoacetic Acid,,  0.0010
+11,     Dibromoacetic Acid,,  0.0010
+12,Bromate,0.010,"  0.0050
+   0.00101"
+13,Chlorite,1.0,0.020

@@ -1,0 +1,131 @@
+,0,1,2,3,4
+0,Contaminant,MCL/MRDL/TT violations 2,MCL/MRDL/TT violations 2,Monitoring & testing procedure violations,Monitoring & testing procedure violations
+1,Contaminant,Tier of public notice required,Citation,Tier of public notice required,Citation
+2,I. Violations of National Primary Drinking Water Regulations (NPDWR): 3,,,,
+3,A. Microbiological Contaminants,,,,
+4,1.a Total coliform bacteria †,2,141.63(a),3,141.21(a)-(e)
+5,1.b Total coliform (Monitoring or TT violations resulting from failure to perform assessments or corrective actions) ‡,2,141.860(b),3,141.860(c)
+6,1.c Seasonal system failure to follow State-approved start-up plan prior to serving water to the public. ‡,2,141.860(b)(2),,
+7,2.a Fecal coliform/E. coli†,1,141.63(b),"4 1,3",141.21(e)
+8,2.bE. coli‡,1,141.860 (a),3,"141.860(c)
+141.860(d)(2)"
+9,2.cE.coli(TT violations resulting from failure to perform level 2 Assessments or corrective action) ‡,2,141.860(b),,
+10,3. Turbidity MCL,2,141.13(a),3,141.22
+11,4. Turbidity MCL (average of 2 days' samples >5 NTU),"5 2, 1",141.13(b),3,141.22
+12,5. Turbidity (for TT violations resulting from a single exceedance of maximum allowable turbidity level),"6 2, 1","141.71(a)(2), 141.71(c)(2)(i), 141.73(a)(2), 141.73 (b)(2), 141.73 (c)(2), 141.73(d), 141.173(a)(2), 141.173(b), 141.551(b)",3,"141.74(a)(1), 141.74(b)(2), 141.74(c)(1), 141.174, 141.560(a)-(c), 141.561."
+13,"6. Surface Water Treatment Rule violations, other than violations resulting from single exceedance of max. allowable turbidity level (TT)",2,141.70-141.73,3,141.74
+14,"7. Interim Enhanced Surface Water Treatment Rule violations, other than violations resulting from single exceedance of max. turbidity level (TT)",7 2,"141.170-141.173, 141.500-141.553",3,"141.172, 141.174, 141.530-141.544, 141.560-141.564."
+15,8. Filter Backwash Recycling Rule violations,2,141.76(c),3,"141.76(b), (d)"
+16,9. Long Term 1 Enhanced Surface Water Treatment Rule violations,2,141.500-141.553,3,"141.530-141.544, 141.560-141.564."
+17,10. LT2ESWTR violations,2,141.710-141.720,"22 2, 3",141.701-141.705 and 141.708-141.709.
+18,11. Ground Water Rule violations,2,141.404,3,"141.402(h),
+141.403(d)."
+19,B. Inorganic Chemicals (IOCs),,,,
+20,1. Antimony,2,141.62(b),3,"141.23(a), (c)"
+21,2. Arsenic,2,8 141.62(b),3,"11 141.23(a), (c)"
+22,3. Asbestos (fibers >10 µm),2,141.62(b),3,141.23(a)-(b)
+23,4. Barium,2,141.62(b),3,"141.23(a), (c)"
+24,5. Beryllium,2,141.62(b),3,"141.23(a), (c)"
+25,6. Cadmium,2,141.62(b),3,"141.23(a), (c)"
+26,7. Chromium (total),2,141.62(b),3,"141.23(a), (c)"
+27,8. Cyanide,2,141.62(b),3,"141.23(a), (c)"
+28,9. Fluoride,2,141.62(b),3,"141.23(a), (c)"
+29,10. Mercury (inorganic),2,141.62(b),3,"141.23(a), (c)"
+30,11. Nitrate,1,141.62(b),"12 1, 3","141.23(a), (d), 141.23(f)(2)"
+31,12. Nitrite,1,141.62(b),"12 1, 3","141.23(a), (e), 141.23(f)(2)"
+32,13. Total Nitrate and Nitrite,1,141.62(b),3,141.23(a)
+33,14. Selenium,2,141.62(b),3,"141.23(a), (c)"
+34,15. Thallium,2,141.62(b),3,"141.23(a), (c)"
+35,"C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)",,,,
+36,1. Lead and Copper Rule (TT),2,141.80-141.85,3,141.86-141.89
+37,D. Synthetic Organic Chemicals (SOCs),,,,
+38,"1. 2,4-D",2,141.61(c),3,141.24(h)
+39,"2. 2,4,5-TP (Silvex)",2,141.61(c),3,141.24(h)
+40,3. Alachlor,2,141.61(c),3,141.24(h)
+41,4. Atrazine,2,141.61(c),3,141.24(h)
+42,5. Benzo(a)pyrene (PAHs),2,141.61(c),3,141.24(h)
+43,6. Carbofuran,2,141.61(c),3,141.24(h)
+44,7. Chlordane,2,141.61(c),3,141.24(h)
+45,8. Dalapon,2,141.61(c),3,141.24(h)
+46,9. Di (2-ethylhexyl) adipate,2,141.61(c),3,141.24(h)
+47,10. Di (2-ethylhexyl) phthalate,2,141.61(c),3,141.24(h)
+48,11. Dibromochloropropane,2,141.61(c),3,141.24(h)
+49,12. Dinoseb,2,141.61(c),3,141.24(h)
+50,"13. Dioxin (2,3,7,8-TCDD)",2,141.61(c),3,141.24(h)
+51,14. Diquat,2,141.61(c),3,141.24(h)
+52,15. Endothall,2,141.61(c),3,141.24(h)
+53,16. Endrin,2,141.61(c),3,141.24(h)
+54,17. Ethylene dibromide,2,141.61(c),3,141.24(h)
+55,18. Glyphosate,2,141.61(c),3,141.24(h)
+56,19. Heptachlor,2,141.61(c),3,141.24(h)
+57,20. Heptachlor epoxide,2,141.61(c),3,141.24(h)
+58,21. Hexachlorobenzene,2,141.61(c),3,141.24(h)
+59,22. Hexachlorocyclo-pentadiene,2,141.61(c),3,141.24(h)
+60,23. Lindane,2,141.61(c),3,141.24(h)
+61,24. Methoxychlor,2,141.61(c),3,141.24(h)
+62,25. Oxamyl (Vydate),2,141.61(c),3,141.24(h)
+63,26. Pentachlorophenol,2,141.61(c),3,141.24(h)
+64,27. Picloram,2,141.61(c),3,141.24(h)
+65,28. Polychlorinated biphenyls (PCBs),2,141.61(c),3,141.24(h)
+66,29. Simazine,2,141.61(c),3,141.24(h)
+67,30. Toxaphene,2,141.61(c),3,141.24(h)
+68,E. Volatile Organic Chemicals (VOCs),,,,
+69,1. Benzene,2,141.61(a),3,141.24(f)
+70,2. Carbon tetrachloride,2,141.61(a),3,141.24(f)
+71,3. Chlorobenzene (monochlorobenzene),2,141.61(a),3,141.24(f)
+72,4. o-Dichlorobenzene,2,141.61(a),3,141.24(f)
+73,5. p-Dichlorobenzene,2,141.61(a),3,141.24(f)
+74,"6. 1,2-Dichloroethane",2,141.61(a),3,141.24(f)
+75,"7. 1,1-Dichloroethylene",2,141.61(a),3,141.24(f)
+76,"8. cis-1,2-Dichloroethylene",2,141.61(a),3,141.24(f)
+77,"9. trans-1,2-Dichloroethylene",2,141.61(a),3,141.24(f)
+78,10. Dichloromethane,2,141.61(a),3,141.24(f)
+79,"11. 1,2-Dichloropropane",2,141.61(a),3,141.24(f)
+80,12. Ethylbenzene,2,141.61(a),3,141.24(f)
+81,13. Styrene,2,141.61(a),3,141.24(f)
+82,14. Tetrachloroethylene,2,141.61(a),3,141.24(f)
+83,15. Toluene,2,141.61(a),3,141.24(f)
+84,"16. 1,2,4-Trichlorobenzene",2,141.61(a),3,141.24(f)
+85,"17. 1,1,1-Trichloroethane",2,141.61(a),3,141.24(f)
+86,"18. 1,1,2-Trichloroethane",2,141.61(a),3,141.24(f)
+87,19. Trichloroethylene,2,141.61(a),3,141.24(f)
+88,20. Vinyl chloride,2,141.61(a),3,141.24(f)
+89,21. Xylenes (total),2,141.61(a),3,141.24(f)
+90,F. Radioactive Contaminants,,,,
+91,1. Beta/photon emitters,2,141.66(d),3,"141.25(a)
+141.26(b)"
+92,2. Alpha emitters,2,141.66(c),3,"141.25(a)
+141.26(a)"
+93,3. Combined radium (226 and 228),2,141.66(b),3,"141.25(a)
+141.26(a)"
+94,4. Uranium,9 2,141.66(e),10 3,"141.25(a)
+141.26(a)"
+95,"G. Disinfection Byproducts (DBPs), Byproduct Precursors, Disinfectant Residuals. Where disinfection is used in the treatment of drinking water, disinfectants combine with organic and inorganic matter present in water to form chemicals called disinfection byproducts (DBPs). EPA sets standards for controlling the levels of disinfectants and DBPs in drinking water, including trihalomethanes (THMs) and haloacetic acids (HAAs). 13",,,,
+96,1. Total trihalomethanes (TTHMs),2,14 141.64(b),3,"141.132(a)-(b), 141.600-141.605, 141.620-141.629"
+97,2. Haloacetic Acids (HAA5),2,141.64(b),3,"141.132(a)-(b), 141.600-141.605, 141.620-141.629"
+98,3. Bromate,2,141.64(a),3,141.132(a)-(b)
+99,4. Chlorite,2,141.64(a),3,141.132(a)-(b)
+100,5. Chlorine (MRDL),2,141.65(a),3,"141.132(a), (c)"
+101,6. Chloramine (MRDL),2,141.65(a),3,"141.132(a), (c)"
+102,"7. Chlorine dioxide (MRDL), where any 2 consecutive daily samples at entrance to distribution system only are above MRDL",2,"141.65(a), 141.133(c)(3)","2 15, 3","141.132(a), (c), 141.133(c)(2)"
+103,"8. Chlorine dioxide (MRDL), where sample(s) in distribution system the next day are also above MRDL",16 1,"141.65(a), 141.133(c)(3)",1,"141.132(a), (c), 141.133(c)(2)"
+104,9. Control of DBP precursors—TOC (TT),2,141.135(a)-(b),3,"141.132(a), (d)"
+105,10. Bench marking and disinfection profiling,N/A,N/A,3,141.172 141.530-141.544.
+106,11. Development of monitoring plan,N/A,N/A,3,141.132(f)
+107,H. Other Treatment Techniques,,,,
+108,1. Acrylamide (TT),2,141.111,N/A,N/A
+109,2. Epichlorohydrin (TT),2,141.111,N/A,N/A
+110,II. Unregulated Contaminant Monitoring: 17,,,,
+111,A. Unregulated contaminants,N/A,N/A,3,141.40
+112,B. Nickel,N/A,N/A,3,"141.23(c), (k)"
+113,III. Public Notification for Variances and Exemptions:,,,,
+114,A. Operation under a variance or exemption,3,"18 1415, 1416,",N/A,N/A
+115,B. Violation of conditions of a variance or exemption,2,"1415, 1416,19 142.307",N/A,N/A
+116,IV. Other Situations Requiring Public Notification:,,,,
+117,A. Fluoride secondary maximum contaminant level (SMCL) exceedance,3,143.3,N/A,N/A
+118,"B. Exceedance of nitrate MCL for non-community systems, as allowed by primacy agency",1,141.11(d),N/A,N/A
+119,C. Availability of unregulated contaminant monitoring data,3,141.40,N/A,N/A
+120,D. Waterborne disease outbreak,1,"141.2, 141.71(c)(2)(ii)",N/A,N/A
+121,E. Other waterborne emergency 20,1,N/A,N/A,N/A
+122,"F. Source Water Sample Positive for GWR Fecal indicators: E. coli, enterococci, or coliphage",1,141.402(g),N/A,N/A
+123,G. Other situations as determined by primacy agency,"21 1, 2, 3",N/A,N/A,N/A

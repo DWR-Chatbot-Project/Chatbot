@@ -1,0 +1,6 @@
+,0,1
+0,"Maximum Influent Turbidity Level
+Nephelometric Turbidity Units (NTU)",Points
+1,Less than 15,0
+2,15 through 100,2
+3,Greater than 100,5

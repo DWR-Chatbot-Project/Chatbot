@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,"If the system is monitoring under the requirements of section 64534.2(a), (b), or (c) for...","If the system is monitoring under the requirements of section 64534.2(a), (b), or (c) for...","If the system is monitoring under the requirements of section 64534.2(a), (b), or (c) for...",,"
+
+The system shall report..."
+1,,,,,
+2,TTHM and HAA5 ,,(a) on a quarterly or more frequent basis,,"(1) The number of samples taken during the last quarter;
+(2) The location, date, and result of each sample taken during the last quarter;
+(3) The arithmetic average of all samples taken in the last quarter;
+(4) The annual arithmetic average of the quarterly arithmetic averages of the samples for the last four quarters; and
+(5) Whether, based on section 64535.2(b), the MCL was violated."
+3,,,,,
+4,,,"(b) less frequently than quarterly (but
+at least annually)",,"(1) The number of samples taken during the last year;
+(2) The location, date, and result of each sample taken during the last monitoring period;
+(3) The arithmetic average of all samples taken over the last year; and
+(4) Whether, based on section 64535.2(b), the MCL was violated."
+5,,,,,
+6,,,(c) less frequently than annually,,"(1) The location, date, and result of the last sample taken; and
+(2) Whether, based on section 64535.2(b), the MCL was violated."
+7,,,,,
+8,Chlorite ,,,,"(1) The number of entry point samples taken each month for the last 3 months; 
+(2) The location, date, and result of each sample (both entry point and distribution system) taken during the last quarter; 
+(3) If a confirmation sample is taken pursuant to section 64634.2(b)(4), the average of an individual sample and its confirmation sample; and 
+(4) Whether, based on section 64535.2(d), the MCL was violated, in which month it was violated, and how many times it was violated in each month."
+9,,,,,
+10,Bromate,,,,"(1) The number of samples taken during the last quarter;
+(2) The location, date, and result of each sample taken during the last quarter;
+(3) The arithmetic average of the monthly arithmetic averages of all samples taken in the last year; and
+(4) Whether, based on section 64535.2(c), the MCL was violated."
