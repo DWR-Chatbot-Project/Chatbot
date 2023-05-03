@@ -1,0 +1,10 @@
+,0,1,2,3
+0,                                                                           Maximum Contaminant Level Ranges ,                                                                           Maximum Contaminant Level Ranges ,                                                                           Maximum Contaminant Level Ranges ,                                                                           Maximum Contaminant Level Ranges 
+1,,,,
+2,"Constituent, Units",Recommended,Upper,Short Term
+3,,,,
+4,"Total Dissolved Solids, mg/L   ",500,"1,000","1,500"
+5,   or ,,,
+6,"Specific Conductance, µS/cm",900,"1,600","2,200"
+7,"Chloride, mg/L ",250,500,600
+8,"Sulfate, mg/L",250,500,600

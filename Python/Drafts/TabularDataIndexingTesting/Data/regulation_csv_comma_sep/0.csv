@@ -1,0 +1,29 @@
+,0,1
+0,Degree of Hazard,"Minimum
+Type of
+Backflow
+Prevention"
+1,(a) Sewage and Hazardous Substances,
+2,(1) Premises where there are waste water pumping and/or treatment plants and there is no interconnection with the potable water system. This does not include a single-family residence that has a sewage lift pump. A RP may be provided in lieu of an AG if approved by the health agency and water supplier.,"AG
+"
+3,(2) Premises where hazardous substances are handled in any manner in which the substances may enter the potable water system. This does not include a single-family residence that has a sewage lift pump. A RP may be provided in lieu of an AG if approved by the health agency and water supplier.,"AG
+"
+4,"(3) Premises where there are irrigation systems into which fertilizers, herbicides, or pesticides are, or can be, injected.","RP
+"
+5,(b) Auxiliary Water Supplies,
+6,(1) Premises where there is an unapproved auxiliary water supply which is interconnected with the public water system. A RP or DC may be provided in lieu of an AG if approved by the health agency and water supplier,AG
+7,(2) Premises where there is an unapproved auxiliary water supply and there are no interconnections with the public water system. A DC may be provided in lieu of a RP if approved by the health agency and water supplier.,RP
+8,(c) Recycled water,
+9,(1) Premises where the public water system is used to supplement the recycled water supply.,AG
+10,"(2) Premises where recycled water is used, other than as allowed in paragraph (3), and there is no interconnection with the potable water system.",RP
+11,"(3) Residences using recycled water for landscape irrigation as part of an approved dual plumbed use area established pursuant to sections 60313 through 60316 unless the recycled water supplier obtains approval of the local public water supplier, or the State Water Resources Control Board if the water supplier is also the supplier of the recycled water, to utilize an alternative backflow protection plan that includes an annual inspection and annual shutdown test of the recycled water and potable water systems pursuant to subsection 60316(a).",DC
+12,(d) Fire Protection Systems,
+13,(1) Premises where the fire system is directly supplied from the public water system and there is an unapproved auxiliary water supply on or to the premises (not interconnected).,DC
+14,(2) Premises where the fire system is supplied from the public water system and interconnected with an unapproved auxiliary water supply. A RP may be provided in lieu of an AG if approved by the health agency and water supplier.,AG
+15,(3) Premises where the fire system is supplied from the public water system and where either elevated storage tanks or fire pumps which take suction from private reservoirs or tanks are used.,DC
+16,(4) Premises where the fire system is supplied from the public water system and where recycled water is used in a separate piping system within the same building.,DC
+17,(e) Dockside Watering Points and Marine Facilities,
+18,(1) Pier hydrants for supplying water to vessels for any purpose.,RP
+19,(2) Premises where there are marine facilities.,RP
+20,(f) Premises where entry is restricted so that inspections for cross-connections cannot be made with sufficient frequency or at sufficiently short notice to assure that do not exist.,RP
+21,(g) Premises where there is a repeated history of cross-connections being established or re-established. ,RP

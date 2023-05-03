@@ -1,0 +1,10 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,Log credit,"Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C","Water Temperature, °C"
+1,Log credit,<=0.5,1,2,3,5,7,10,15,20,25,30
+2,(i) 0.25,6.0,5.8,5.2,4.8,4.0,3.3,2.5,1.6,1.0,0.6,0.39
+3,(ii) 0.5,12,12,10,9.5,7.9,6.5,4.9,3.1,2.0,1.2,0.78
+4,(iii) 1.0,24,23,21,19,16,13,9.9,6.2,3.9,2.5,1.6
+5,(iv) 1.5,36,35,31,29,24,20,15,9.3,5.9,3.7,2.4
+6,(v) 2.0,48,46,42,38,32,26,20,12,7.8,4.9,3.1
+7,(vi) 2.5,60,58,52,48,40,33,25,16,9.8,6.2,3.9
+8,(vii) 3.0,72,69,63,57,47,39,30,19,12,7.4,4.7

@@ -1,0 +1,13 @@
+,0,1,2,3
+0,Unit Technologies,Limitations (see footnotes),Operator Skill Level Required,Raw Water Quality Range and Considerations
+1,1. Ion exchange ,(a),Intermediate,All ground waters; competing anion concentrations may affect regeneration frequency
+2,"2. Point of use, ion exchange",(b),Basic,All ground waters; competing anion concentrations may affect regeneration frequency
+3,3. Reverse osmosis ,(c),Advanced,Surface waters usually require pre-filtration
+4,"4. Point of use, reverse osmosis",(b),Basic,Surface waters usually require pre-filtration
+5,5. Lime softening,(d),Advanced,All waters
+6,6. Green sand filtration,(e),Basic,All ground waters; competing anion concentrations may affect regeneration frequency
+7,7. Co-precipitation with barium sulfate,(f),Intermediate to advanced,Ground waters with suitable quality
+8,8. Electrodialysis/electrodialysis reversal,(g),Basic to intermediate,All ground waters
+9,9. Pre-formed hydrous manganese oxide filtration,(h),Intermediate,All ground waters
+10,10. Activated alumina,"(a), (i)",Advanced,All ground waters; competing anion concentrations may affect regeneration frequency
+11,11. Enhanced coagulation/filtration,(j),Advanced,Can treat a wide range of water qualities

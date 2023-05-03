@@ -1,0 +1,40 @@
+,0,1
+0,Volatile organic ,
+1,Benzene   ," Discharge from plastics, dyes and nylon factories; leaching from gas storage tanks and landfills   "
+2,Carbon tetrachloride   , Discharge from chemical plants and other industrial activities   
+3,"1,2-Dichlorobenzene   ", Discharge from industrial chemical factories   
+4,"1,4-Dichlorobenzene   ", Discharge from industrial chemical factories   
+5,"1,1-Dichloroethane   "," Extraction and degreasing solvent; used in manufacture of pharmaceuticals, stone, clay and glass products; fumigant   "
+6,"1,2-Dichloroethane ", Discharge from industrial chemical factories 
+7,"1,1-Dichloroethylene ", Discharge from industrial chemical factories 
+8,"cis-1,2-Dichloroethylen  ", Discharge from industrial chemical factories; major biodegradation byproduct of TCE and PCE groundwater contamination 
+9,"trans-1,2-Dichloroethylene ", Discharge from industrial chemical factories; minor biodegradation byproduct of TCE and PCE groundwater contamination 
+10,Dichloromethane , Discharge from pharmaceutical and chemical factories; insecticide 
+11,"1,2-Dichloropropane ", Discharge from industrial chemical factories; primary component of some fumigants 
+12,"1,3-Dichloropropene ", Runoff/leaching from nematocide used on croplands   
+13,Ethylbenzene   , Discharge from petroleum refineries; industrial chemical factories 
+14,Methyl-tert-butyl ether (MTBE),Leaking underground storage tanks; discharge from petroleum and chemical factories
+15,Monochlorobenzene , Discharge from industrial and agricultural chemical factories and drycleaning facilities 
+16,Styrene , Discharge from rubber and plastic factories; leaching from landfills 
+17,"1,1,2,2-Tetrachloroethane  "," Discharge from industrial and agricultural chemical factories; solvent used in production of TCE, pesticides, varnish and lacquers "
+18,Tetrachloroethylene (PCE) ," Discharge from factories, dry cleaners, and auto shops (metal degreaser) "
+19,"1,2,4-Trichlorobenzene ", Discharge from textile-finishing factories 
+20,"1,1,1-Trichloroethan  ", Discharge from metal degreasing sites and other factories; manufacture of food wrappings 
+21,"1,1,2-Trichloroethan  ", Discharge from industrial chemical factories   
+22,Trichloroethylene (TCE) , Discharge from metal degreasing sites and other factories 
+23,Toluene , Discharge from petroleum and chemical factories; underground gas tank leaks 
+24,Trichlorofluoromethane , Discharge from industrial factories; degreasing solvent; propellant and refrigerant 
+25,"1,1,2-Trichloro-1,2,2- Trifluoroethane ", Discharge from metal degreasing sites and other factories; drycleaning solvent; refrigerant 
+26,Vinyl chloride   , Leaching from PVC piping; discharge from plastics factories; biodegradation byproduct of TCE and PCE groundwater contamination   
+27,Xylenes   , Discharge from petroleum and chemical factories; fuel solvent   
+28,"
+",
+29,"Disinfection Byproducts, Disinfection Byproduct Precursors, and Disinfectant Residuals","Disinfection Byproducts, Disinfection Byproduct Precursors, and Disinfectant Residuals"
+30,Total trihalomethanes (TTHM), Byproduct of drinking water disinfection
+31,Haloacetic acids (five) (HAA5), Byproduct of drinking water disinfection
+32,Bromate, Byproduct of drinking water disinfection
+33,Chloramines, Drinking water disinfectant added for treatment
+34,Chlorine, Drinking water disinfectant added for treatment
+35,Chlorite, Byproduct of drinking water disinfection
+36,Chlorine dioxide, Drinking water disinfectant added for treatment
+37,Control of disinfection byproduct precursors (Total Organic Carbon), Various natural and manmade sources

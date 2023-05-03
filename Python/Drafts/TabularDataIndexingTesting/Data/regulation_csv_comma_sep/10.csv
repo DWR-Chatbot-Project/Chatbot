@@ -1,0 +1,21 @@
+,0,1
+0,Water System Type,Fee
+1,Community Water System,
+2,100 or fewer service connections,"$250.00 or $6.00 per service connection, whichever is greater."
+3,"100 or fewer service connections
+(disadvantaged community)",$100.00
+4,"101 to 1,000 service connections",$6.00 per service connection
+5,"101 to 1,000 service connections
+(disadvantaged community)",$100 p1us $2.00 per each service connection greater than 100
+6,"1,001 to 5,000 service connections","$6.00 per each of first 1,000 service connections plus $3.50 per each service connection greater than 1,000"
+7,"1,001 to 5,000 service connections
+(disadvantaged community)",$100 plus $2.00 per each service connection greater than 100
+8,"5,001 to 15,000 service connections","$6.00 per each of first 1,000 service connections plus $3.50 per each service connection greater than 1,000 but less than 5,001 plus $2.00 per each service connection greater than 5,000"
+9,"5,001 to 15,000 service connections
+(disadvantaged community)",$100 plus $2.00 per each service connection greater than 100
+10,"15,001 or more service connections","$6.00 per each of first 1,000 service connections plus $3.50 per each service connection greater than 1,000 but less than 5,001 plus $2.00 per each service connection greater than 5,000 but less than 15,001 plus $1.35 per each service connection greater than 15,000"
+11,"15,001 or more service connections
+(disadvantaged community)","$100 plus $2.00 per each service connection greater than 100 but less than 15,001 plus $1.35 per each service connection greater than 15,000"
+12,Nontransient Noncommunity Water System,"$2.00 per person served, but not less than $456.00."
+13,Transient Noncommunity Water System,$800.00.
+14,Wholesaler,"$6,000.00 plus $1.36 per each MG1"

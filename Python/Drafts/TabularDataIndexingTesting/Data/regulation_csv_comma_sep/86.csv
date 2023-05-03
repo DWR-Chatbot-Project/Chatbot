@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,"Table 64680-A WQP Tap Monitoring Sites
+","Table 64680-A WQP Tap Monitoring Sites
+","Table 64680-A WQP Tap Monitoring Sites
+","Table 64680-A WQP Tap Monitoring Sites
+","System Size 
+(Number of People Served)"
+1,"System Size 
+(Number of People Served)",Standard Tap Monitoring,Reduced Tap Monitoring,Reduced Tap Monitoring,
+2,,(Minimum Number of Sites),(Minimum Number of Sites),(Minimum Number of Sites),">100,000"
+3,,25,10,10,"10,001"
+4,"to 100,000",10,7,7,"3,301"
+5,"to 10,000",3,3,3,501
+6,"to 3,300",2,2,2,101
+7,to 500,1,1,1,<101
+8,,1,1,1,

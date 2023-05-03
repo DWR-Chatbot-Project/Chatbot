@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6
+0,Contaminant,"Traditional
+MCL in mg/L","To convert for CCR, multiply by",MCL in CCR units,MCLG,Major sources in drinking water,Health effects language
+1,Microbiological Contaminants,,,,,,
+2,Fecal Indicators (enterococci or coliphage),TT,,TT,N/A,Human and animal fecal waste,"Fecal indicators are microbes whose presence indicates that the water may be contaminated with human or animal wastes. Microbes in these wastes can cause short-term health effects, such as diarrhea, cramps, nausea, headaches, or other symptoms. They may pose a special health risk for infants, young children, some of the elderly, and people with severely compromised immune systems."

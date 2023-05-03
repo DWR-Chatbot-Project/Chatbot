@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6
+0,,,,,Minimum monitoring frequency,Minimum monitoring frequency,Minimum monitoring frequency
+1,,,,,,,
+2,Source water type,,Persons served,,Number of distribution system monitoring locations,,Monitoring period1
+3,,,,,,,
+4,Systems using approved surface water,,"5,000,000",,"10 dual sample sets:
+at the locations with the five highest TTHM and five highest HAA5 LRAAs ",,per quarter
+5,,,,,,,
+6,,,"1,000,000 – 4,999,999",,"8 dual sample sets:
+at the locations with the four highest TTHM and four highest HAA5 LRAAs",,per quarter
+7,,,,,,,
+8,,,"250,000 – 999,999",,"6 dual sample sets:
+at the locations with the three highest TTHM and three highest HAA5 LRAAs",,per quarter
+9,,,,,,,
+10,,,"50,000 – 249,999",,"4 dual sample sets:
+at the locations with the two highest TTHM and two highest HAA5 LRAAs",,per quarter
+11,,,,,,,
+12,,,"10,000 – 49,999",,"2 dual sample sets:
+at the locations with the highest TTHM and highest HAA5 LRAAs",,per quarter
+13,,,,,,,
+14,,,"3,301 – 9,999",,"2 dual sample sets:
+one at the location and during the quarter with the highest TTHM single measurement, one at the location and during the quarter with the highest HAA5 single measurement",,per year
+15,,,,,,,
+16,,,"500 – 3,300",,"1 TTHM and 1 HAA5 sample:  one at the location and during the quarter with the highest TTHM single measurement, one at the location and during the quarter with the highest HAA5 single measurement; 1 dual sample set per year if the highest TTHM and HAA5 measurements occurred at the same location and quarter",,per year
+17,,,,,,,
+18,Systems using only ground water not under direct influence of surface water,,"500,000",,"4 dual sample sets:
+at the locations with the two highest TTHM and two highest HAA5 LRAAs",,per quarter
+19,Systems using only ground water not under direct influence of surface water,,,,,,
+20,Systems using only ground water not under direct influence of surface water,,"100,000 – 499,999",,"2 dual sample sets:
+at the locations with the highest TTHM and highest HAA5 LRAAs",,per quarter
+21,Systems using only ground water not under direct influence of surface water,,,,,,
+22,Systems using only ground water not under direct influence of surface water,,"10,000 – 99,999",,"2 dual sample sets:
+one at the location and during the quarter with the highest TTHM single measurement, one at the location and during the quarter with the highest HAA5 single measurement",,per year
+23,Systems using only ground water not under direct influence of surface water,,,,,,
+24,Systems using only ground water not under direct influence of surface water,,"500 – 9,999",,"1 TTHM and 1 HAA5 sample:  one at the location and during the quarter with the highest TTHM single measurement, one at the location and during the quarter with the highest HAA5 single measurement; 1 dual sample set per year if the highest TTHM and HAA5 measurements occurred at the same location and quarter",,per year
+25,,,,,,,
+26,,,500,,"1 TTHM and 1 HAA5 sample:  one at the location and during the quarter with the highest TTHM single measurement, one at the location and during the quarter with the highest HAA5 single measurement; 1 dual sample set every third year if the highest TTHM and HAA5 measurements occurred at the same location and quarter",,every third year
+27,,,,,,,
