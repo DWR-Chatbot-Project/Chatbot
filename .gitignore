@@ -7,3 +7,4 @@ web-frontend/ui/__pycache__
 web-frontend/ui/venv
 web-frontend/ui/.env
 web-frontend/ui/index.json
+web-frontend/ui/data/__pycache__

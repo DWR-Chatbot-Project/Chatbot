@@ -147,6 +147,13 @@ body {
     background: #ddd;
 }
 
+.msger-select {
+    margin-right: 10px;
+    background: #ddd;
+    font-weight: bold;
+    cursor: pointer;
+}
+
 .msger-send-btn {
     margin-left: 10px;
     background: rgb(0, 196, 65);
